@@ -1,0 +1,27 @@
+{
+  "realityId": "REALITY-001",
+  "day": 1,
+  "currentTime": "上午 08:32",
+  "phase": "現實期",
+  "playerAccount": {
+    "forumName": "黑風",
+    "rank": "E級玩家",
+    "unreadMessages": 1
+  },
+  "locations": {
+    "home": "黑風目前所在位置。",
+    "wangchuanCafe": "送行人指定的今晚八點會面地點。"
+  },
+  "messages": [
+    {
+      "from": "送行人",
+      "content": "今晚八點，青河市，忘川咖啡廳，一個人來。"
+    }
+  ],
+  "investigation": {
+    "qingheNews": "新聞紀錄中人數前後不一致。",
+    "chenGuorong": "一般搜尋查無資料。"
+  },
+  "timePaused": true,
+  "pauseReason": "玩家要求先暫停劇情時間並補寫 GitHub 存檔。"
+}
