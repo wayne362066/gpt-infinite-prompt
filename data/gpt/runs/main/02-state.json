@@ -1,0 +1,25 @@
+{
+  "runId": "RUN-001",
+  "status": "completed",
+  "ending": "HE",
+  "endingName": "被記住的人",
+  "finalMission": "承認第七名乘客陳國榮曾經存在。",
+  "result": {
+    "mainMissionCompleted": true,
+    "hiddenEndingUnlocked": true,
+    "partyWipe": false
+  },
+  "rewards": {
+    "infiniteCoin": 300,
+    "spiritBonus": 1,
+    "title": "送行者",
+    "achievement": "銘記之人",
+    "item": "陳國榮的車票"
+  },
+  "openThreads": [
+    "現實中查不到陳國榮的資料。",
+    "青河事故新聞人數紀錄矛盾。",
+    "短髮女子疑似資深玩家。",
+    "高大青年的父親曾參與青河事件救援。"
+  ]
+}
