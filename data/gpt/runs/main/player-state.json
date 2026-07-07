@@ -1,0 +1,42 @@
+{
+  "name": "黑風",
+  "title": "送行者",
+  "rank": "E級玩家",
+  "hp": 100,
+  "maxHp": 100,
+  "mp": 80,
+  "maxMp": 80,
+  "san": 100,
+  "maxSan": 100,
+  "attributes": {
+    "體質": 5,
+    "力量": 4,
+    "敏捷": 5,
+    "精神": 9,
+    "智力": 10
+  },
+  "talent": "觀察與推理",
+  "skills": [],
+  "equipment": [],
+  "inventory": [
+    {
+      "name": "陳國榮的車票",
+      "type": "特殊道具",
+      "description": "一張泛黃的末班車票。當黑風迷失方向時，它或許會帶他找到回家的路。"
+    }
+  ],
+  "infiniteCoin": 300,
+  "redName": 0,
+  "achievements": [
+    {
+      "name": "銘記之人",
+      "description": "第一次讓亡者得到安息。"
+    }
+  ],
+  "knownFacts": [
+    "Party Infinite 真實存在。",
+    "副本結束後，道具會出現在現實。",
+    "無限論壇已建立玩家帳號：黑風。",
+    "青河公車事故中的司機陳國榮曾被現實紀錄抹去。"
+  ]
+}
