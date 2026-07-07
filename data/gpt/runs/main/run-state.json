@@ -1,0 +1,11 @@
+{
+  "runId": "RUN-001",
+  "title": "深夜十二點的末班車",
+  "phase": "closed",
+  "currentLocation": "現實",
+  "deadline": "終點站抵達前",
+  "truthDiscovered": true,
+  "knownNpc": ["林志明", "林小雨", "陳國榮", "短髮女子", "高大青年", "戴眼鏡的大學生"],
+  "finalOutcome": "HE：被記住的人。",
+  "stateNote": "副本已結束，後續進入現實期。"
+}
