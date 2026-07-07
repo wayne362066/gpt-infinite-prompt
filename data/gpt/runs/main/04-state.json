@@ -1,0 +1,15 @@
+{
+  "realityId": "REALITY-001",
+  "round": 1,
+  "currentTime": "上午 08:32",
+  "currentAction": "查看青河新聞",
+  "status": "time_paused_by_player",
+  "factsDiscovered": [
+    "早期新聞與後續新聞的人數不同。",
+    "地方論壇舊貼提到人數對不上。",
+    "陳國榮一般搜尋查無資料。",
+    "無限論壇帳號已建立。",
+    "送行人邀約今晚八點到忘川咖啡廳。"
+  ],
+  "availableActions": ["繼續調查", "調查送行人", "尋找陳國榮線索", "等待赴約"]
+}
