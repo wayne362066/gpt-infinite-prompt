@@ -1,0 +1,7 @@
+{"seq":1,"stage":"01","type":"run_start","summary":"建立新存檔，玩家黑風進入第一副本。"}
+{"seq":2,"stage":"02","type":"investigation","summary":"黑風觀察車內環境與乘客，要求全員交換情報。"}
+{"seq":3,"stage":"02","type":"truth_discovery","summary":"黑風確認主要人物與青河線索的關聯。"}
+{"seq":4,"stage":"02","type":"ending","summary":"黑風達成 HE：被記住的人。"}
+{"seq":5,"stage":"03","type":"reality_start","summary":"黑風回到現實，取得特殊道具：陳國榮的車票。"}
+{"seq":6,"stage":"04","type":"reality_action","summary":"黑風查看青河新聞，並收到送行人邀約。"}
+{"seq":7,"stage":"04","type":"system","summary":"玩家要求暫停劇情時間，先將目前紀錄寫入 GitHub。"}
