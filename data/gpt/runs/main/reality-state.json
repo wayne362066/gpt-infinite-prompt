@@ -1,7 +1,7 @@
 {
   "realityId": "REALITY-001",
   "day": 2,
-  "currentTime": "第 2 天 下午 14:47",
+  "currentTime": "第 2 天 下午 15:02",
   "phase": "現實期",
   "currentLocation": "黑風住處",
   "playerAccount": {
@@ -32,8 +32,8 @@
     },
     {
       "name": "張哲安 / Zhe An Chang",
-      "status": "已回覆，等待黑風回覆是否接收縮圖目錄",
-      "note": "透露先前有人只找 2007 南區外拍巷口那張照片，且他沒有給原圖。"
+      "status": "已傳送縮圖壓縮檔",
+      "note": "傳來 qhhs_2007_south_trip_contactsheet_masked.zip，要求不要問原圖。"
     }
   ],
   "investigation": {
@@ -52,7 +52,7 @@
     "azheContact": "azhe_qhhs 聯絡線索包含 azhe.qhhs.photo@...、張哲安活動攝影現居北川、Zhe An Chang Photography。",
     "zheAnContact": "搜尋張哲安活動攝影與作品集後，取得 zachan.photo、contact@zachan.photo、北川市文化中心與 DM for archive prints 線索。",
     "zheAnSocial": "Zhe An Chang 社群頁可能仍有效，公開摘要提到 Event / Archive / School Memory、old campus negatives 與 2007-2009 校園底片。",
-    "zheAnDm": "黑風已用低風險訊息私訊張哲安；張哲安透露先前有人只找 2007 南區外拍巷口那張照片，且他沒有給原圖。"
+    "zheAnDm": "黑風已用低風險訊息私訊張哲安；張哲安透露先前找照片的人問得很準，關注原圖、車牌與備份；目前已傳來遮蔽低解析縮圖壓縮檔。"
   },
   "timePaused": false,
   "pauseReason": null
