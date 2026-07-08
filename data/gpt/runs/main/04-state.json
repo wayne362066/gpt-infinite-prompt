@@ -1,56 +1,41 @@
 {
   "realityId": "REALITY-001",
-  "round": 25,
-  "currentTime": "第 2 天 下午 17:06",
+  "round": 26,
+  "currentTime": "第 2 天 下午 17:28",
   "currentLocation": "黑風住處",
-  "currentAction": "尊重限制並請張哲安代轉小孟",
+  "currentAction": "下載並檢查 selected_masked_v2 細部文件",
   "status": "active",
   "factsDiscovered": [
     "黑風已完成青河中央圖書館會面，取得 Case-000 筆記本與送行人名片。",
-    "青河事件公開資料只剩簡化後的結案版本。",
-    "當年營運公司可能是民安客運。",
-    "地方論壇備份串提到 V1 名單可能是保險或內部附件、老周、司機家屬、第七個是開車的人、claim_appendix_v1_scan.jpg。",
-    "陳國榮女兒相關線索指向青河高中、陳雨、陳學姐與高二下轉學。",
-    "陳雨晴目前是最高可能候選；低機率候選為陳雨萱與陳雨桐。",
-    "陳雨晴可能與二年三班、攝影社、青河南區和平路舊公寓、rain_clear_2007@ 有關。",
+    "青河事件公開資料只剩簡化後的結案版本，當年營運公司可能是民安客運。",
+    "地方論壇備份串提到 V1 名單、老周、司機家屬、第七個是開車的人、claim_appendix_v1_scan.jpg。",
+    "陳雨晴目前是陳國榮女兒最高可能候選；她可能與二年三班、攝影社、青河南區和平路舊公寓、rain_clear_2007@ 有關。",
     "qhhs_photo_club_2007.jpg 曾存在，圖片索引摘要殘留 scan by Y.C. / upload by A-Zhe。",
-    "阿哲可能是張哲安，帳號 azhe_qhhs，曾整理與上傳青河高中攝影社照片。",
-    "相簿留言提到雨晴說那張不要放上去，並提到拍到她家樓下那台車。",
-    "張哲安作品集與社群線索包含 zachan.photo、contact@zachan.photo、Zhe An Chang Photography、old campus negatives。",
-    "張哲安確認手上有部分青河高中底片，包含校慶、社團成果展、南區外拍、畢業季與未公開底片。",
-    "張哲安透露先前有人只問一張照片：2007、南區外拍、巷口那張，並詢問原圖、車牌與備份。",
-    "黑風已下載 qhhs_2007_south_trip_contactsheet_masked.zip 並離線解壓檢查。",
-    "壓縮檔包含 contactsheet_2007_south_trip_masked.jpg、index.txt、readme.txt。",
-    "縮圖目錄共 42 張，所有人臉與車牌已被遮蔽。",
-    "S-17 / alley_corner 顯示巷口、老舊公寓、深色車輛與和平字樣殘留。",
-    "S-18 / alley_corner_2 疑似同一地點，遠處有一名女生站在公寓門口附近。",
-    "S-21 / bus_stop_backstreet 顯示公車站牌與疑似民字招牌。",
-    "張哲安表示小孟比較常拍人，雨晴比較常整理底片與掃描，偶爾也會拍街景。",
-    "張哲安表示雨晴拍攝習慣偏向路、站牌、門口、背影。",
-    "張哲安提到攝影社指導老師是林若梅。",
-    "張哲安表示南區外拍不是正式校方活動，比較像社團自己跑出去拍。",
-    "張哲安表示後來有些照片沒有上傳，是因為有人家裡出事，老師叫他們少放一點。",
-    "張哲安表示 S-20 / bus_stop_empty 與 S-31 / road_after_rain 印象較深，應該是雨晴拍的。",
+    "阿哲可能是張哲安，曾整理與上傳青河高中攝影社照片。",
+    "張哲安確認手上有部分青河高中底片，包含南區外拍與未公開底片。",
+    "先前有人只問 2007 南區外拍巷口那張，並詢問原圖、車牌與備份。",
+    "黑風已下載 qhhs_2007_south_trip_contactsheet_masked.zip 並離線初步檢查，發現 S-17、S-18、S-21 等重點照片。",
+    "張哲安表示小孟常拍人，雨晴常整理底片與掃描，雨晴拍攝習慣偏向路、站牌、門口、背影。",
+    "張哲安提到攝影社指導老師是林若梅，南區外拍不是正式校方活動。",
+    "張哲安表示 S-20 / bus_stop_empty 與 S-31 / road_after_rain 應該是雨晴拍的。",
     "雨晴曾說人不在畫面裡也可以留下人在那裡的感覺。",
-    "張哲安表示雨晴很早就轉走，後來幾乎沒與攝影社聯絡。",
     "張哲安表示沒有雨晴現在能用的聯絡方式，rain_clear_2007 好像也停了。",
-    "張哲安表示小孟以前好像收過雨晴一封信。",
-    "張哲安表示手上可能還有幾張雨晴拍攝的掃描檔。",
-    "張哲安表示雨晴以前留過一個小資料夾，名字好像是 yq 或 rain。",
-    "張哲安提醒不要一開始就找雨晴本人，她以前很討厭別人問她家裡的事。",
-    "黑風將 S-17、S-18、S-21 與其他疑似雨晴風格照片混合詢問原圖與授權。",
-    "張哲安表示 S-06、S-12、S-20、S-24、S-31 可給較清楚版本，但仍要遮人臉。",
+    "張哲安表示小孟以前好像收過雨晴一封信，且雨晴以前留過 yq 或 rain 資料夾。",
     "張哲安拒絕提供 S-17、S-18、S-21 原圖，只能提供裁切過、低解析、遮蔽版本供場景確認。",
     "張哲安特別提醒 S-17 不要問原圖。",
-    "張哲安表示小孟聯絡方式不能直接給，但可以幫黑風轉正式訊息。",
-    "張哲安表示小孟可能比他更記得誰拍了哪張，尤其是人的照片。",
-    "張哲安提出素材使用條件：不要放未遮人臉版本、不要放車牌、不要把南區外拍包裝成正式校方活動、引用時標註青河高中攝影社舊相簿整理即可，不要標個人姓名。",
-    "黑風尊重張哲安限制，表示不會把 S-17、S-18、S-21 放入正式片段。",
-    "張哲安表示會提供 S-06、S-12、S-20、S-24、S-31 的較清楚遮臉版。",
-    "張哲安表示會提供 S-17、S-18、S-21 的裁切過低解析遮蔽版，只能做場景確認用。",
-    "張哲安明確表示會把黑風的紀錄片素材徵集說明轉給小孟，且不會提 S-17。",
+    "張哲安已代為轉訊息給小孟，等待小孟是否回覆。",
     "張哲安已傳來 qhhs_2007_south_trip_selected_masked_v2.zip，標記為 selected previews / face masked / scene reference only。",
-    "張哲安表示已將訊息轉給小孟，小孟若回覆會再通知黑風。"
+    "黑風已下載 qhhs_2007_south_trip_selected_masked_v2.zip 並離線檢查。",
+    "v2 檔案包含 README_USAGE.txt、selected_index_v2.txt、contact_notes.txt 與 selected_previews 資料夾。",
+    "selected_index_v2 顯示 album_17 / south trip，batch 為 QHHS photo club / 2007 / South District，scan set 為 mixed / uploaded by A-Zhe。",
+    "selected_index_v2 顯示 S-17、S-18、S-20、S-21 來源為 yq_private / roll04。",
+    "selected_index_v2 顯示 S-31 來源為 yq_private / roll07。",
+    "selected_index_v2 顯示 S-20 與 S-31 的 photographer 為 Y.C. ?。",
+    "selected_index_v2 顯示 S-17、S-18、S-21 的 photographer 被 redacted。",
+    "contact_notes.txt 顯示 2007-11-03 南區外拍路線為老市場 → 和平路舊街 → 南區候車亭 → 青河大橋南引道。",
+    "S-17 裁切低解析版仍可見狹窄巷口、老舊公寓、深色車輛、和平路 17... 字樣與被大面積遮蔽的車牌。",
+    "S-18 裁切低解析版可見公寓入口、17巷片段與一名疑似拿相機或相機背帶的女生。",
+    "S-21 裁切低解析版可見民安字樣、疑似南區支線路線貼紙與深色車輛尾端。"
   ],
   "itemsGained": ["Case-000 筆記本", "送行人的名片"],
   "digitalFilesDownloaded": [
@@ -58,48 +43,31 @@
       "filename": "qhhs_2007_south_trip_contactsheet_masked.zip",
       "source": "張哲安 / Zhe An Chang 社群 DM",
       "status": "已下載並離線初步檢查",
-      "contents": ["contactsheet_2007_south_trip_masked.jpg", "index.txt", "readme.txt"],
-      "note": "遮蔽後低解析縮圖目錄，包含 S-17 巷口、S-18 同地點偏移角度、S-21 疑似民安相關招牌。"
-    }
-  ],
-  "digitalFilesPending": [
+      "contents": ["contactsheet_2007_south_trip_masked.jpg", "index.txt", "readme.txt"]
+    },
     {
       "filename": "qhhs_2007_south_trip_selected_masked_v2.zip",
       "source": "張哲安 / Zhe An Chang 社群 DM",
-      "status": "未下載未開啟",
-      "note": "包含可用照片較清楚遮臉版，以及 S-17、S-18、S-21 裁切低解析遮蔽版；僅供部分場景確認。"
+      "status": "已下載並離線檢查",
+      "contents": ["README_USAGE.txt", "selected_index_v2.txt", "contact_notes.txt", "selected_previews/"]
     }
   ],
   "photoFindings": [
-    {"id": "S-17", "label": "alley_corner", "importance": "極高", "summary": "巷口、老舊公寓、深色車輛、和平字樣殘留；張哲安明確拒絕提供原圖，幾乎確定是巷口那張。"},
-    {"id": "S-18", "label": "alley_corner_2", "importance": "高", "summary": "疑似同一地點偏移角度，公寓門口附近有一名臉部被遮蔽的女生；張哲安拒絕提供原圖。"},
-    {"id": "S-20", "label": "bus_stop_empty", "importance": "中高", "summary": "空的公車站牌與夕光，張哲安認為應該是雨晴拍的，可作為雨晴風格樣本。"},
-    {"id": "S-21", "label": "bus_stop_backstreet", "importance": "高", "summary": "可見公車站牌與疑似民字招牌；張哲安拒絕提供原圖，可能連到民安客運線索。"},
-    {"id": "S-31", "label": "road_after_rain", "importance": "中高", "summary": "雨後路面反光，張哲安認為應該是雨晴拍的，可作為雨晴風格樣本。"}
+    {"id": "S-17", "label": "alley_corner", "importance": "極高", "summary": "來源 yq_private / roll04；巷口、老舊公寓、深色車輛、和平路 17...；車牌被大面積遮蔽，幾乎確定是巷口那張。"},
+    {"id": "S-18", "label": "alley_corner_2", "importance": "高", "summary": "來源 yq_private / roll04；同地點偏移角度，17巷片段，疑似拿相機或相機背帶的女生。"},
+    {"id": "S-20", "label": "bus_stop_empty", "importance": "中高", "summary": "來源 yq_private / roll04；photographer: Y.C. ?；空的南區候車亭與夕光，可作雨晴風格樣本。"},
+    {"id": "S-21", "label": "bus_stop_backstreet", "importance": "高", "summary": "來源 yq_private / roll04；可見民安字樣、南區支線與深色車輛尾端。"},
+    {"id": "S-31", "label": "road_after_rain", "importance": "中高", "summary": "來源 yq_private / roll07；photographer: Y.C. ?；雨後路面反光，可作雨晴風格樣本。"}
   ],
-  "candidates": {
-    "driverDaughter": [
-      {"name": "陳雨晴", "confidence": "高", "reason": "有班級殘留、搜尋異常、攝影社雨晴、Y.C.、掃描分工、拍攝風格與 rain_clear/yq/rain 線索多重對應。"},
-      {"name": "陳雨萱", "confidence": "低", "reason": "僅符合陳雨X格式，缺少其他佐證。"},
-      {"name": "陳雨桐", "confidence": "低", "reason": "僅符合陳雨X格式，缺少其他佐證。"}
-    ],
-    "photoUploader": [
-      {"name": "張哲安", "alias": "阿哲", "account": "azhe_qhhs", "confidence": "高", "reason": "相簿留言殘影、upload by A-Zhe、舊帳號、作品集與活動攝影資料互相對應。"}
-    ],
-    "photoClubMembers": [
-      {"name": "孟佳怡", "alias": "小孟", "confidence": "高", "reason": "張哲安稱小孟比較常拍人，可能收過雨晴的信，且可能更記得誰拍了哪張。"},
-      {"name": "林若梅", "role": "指導老師", "confidence": "中高", "reason": "張哲安提及指導老師為林若梅，且她曾要求少放部分照片。"}
-    ]
-  },
   "contactLeads": {
-    "azhe": ["contact@zachan.photo", "zachan.photo", "Zhe An Chang 社群 DM 已送出且已讀，且已收到回覆", "張哲安｜活動攝影｜青河 / 現居北川", "北川市文化中心", "Zhe An Chang Photography"],
-    "yuching": ["rain_clear_2007（疑似停用）", "yq / rain 資料夾", "小孟曾收過雨晴一封信"],
-    "xiaomeng": ["張哲安已代為轉正式訊息", "可能更記得誰拍了哪張", "可能仍在做影像相關但非公開接案", "等待回覆"],
+    "yuching": ["rain_clear_2007（疑似停用）", "yq_private / roll04", "yq_private / roll07", "小孟曾收過雨晴一封信"],
+    "xiaomeng": ["張哲安已代為轉正式訊息", "可能更記得誰拍了哪張", "等待回覆"],
     "possibleNextContacts": ["孟佳怡 / 小孟", "林若梅"]
   },
   "usageRestrictions": [
     "不要放未遮人臉版本。",
     "不要放車牌。",
+    "不要公開門牌完整資訊。",
     "不要把南區外拍包裝成正式校方活動。",
     "引用照片時標註青河高中攝影社舊相簿整理即可，不要標個人姓名。",
     "S-17、S-18、S-21 不可直接放進正式片子，只能作為場景確認參考。"
@@ -107,19 +75,19 @@
   "activeConversation": {
     "target": "張哲安 / Zhe An Chang",
     "channel": "社群 DM",
-    "status": "等待小孟是否回覆；v2 檔案待下載檢查",
-    "lastMessageAt": "第 2 天 下午 17:06",
-    "lastMessageSummary": "張哲安接受黑風尊重限制的說法，傳來 selected_masked_v2，並表示已代轉訊息給小孟且不會提 S-17。",
-    "riskLevel": "中",
-    "note": "張哲安警覺下降但 S-17 仍高敏感；下一步適合下載 v2 或等待小孟。"
+    "status": "等待小孟是否回覆；v2 已下載檢查",
+    "lastMessageAt": "第 2 天 下午 17:28",
+    "lastMessageSummary": "黑風下載並檢查 selected_masked_v2，確認 yq_private / roll04、和平路17巷、民安南區支線等細部線索。",
+    "riskLevel": "中到高",
+    "note": "不宜再向張哲安追問原圖；可改查公開線索或等待小孟。"
   },
-  "nextPlan": "可下載並離線檢查 qhhs_2007_south_trip_selected_masked_v2.zip，或等待小孟回覆；也可檢查 index.txt。",
+  "nextPlan": "可檢查原本 index.txt 與 selected_index_v2 的差異，或搜尋和平路17巷、民安南區支線、rain_clear_2007、yq_private；也可等待小孟回覆。",
   "availableActions": [
-    "下載並離線檢查 qhhs_2007_south_trip_selected_masked_v2.zip",
+    "檢查原本 index.txt 是否與 selected_index_v2 有差異",
+    "搜尋和平路 17巷 與青河南區舊公寓線索",
+    "搜尋民安 南區支線 或民安客運 南區候車亭",
     "等待小孟是否回覆",
-    "檢查 index.txt 中 S-17、S-18、S-21、S-20、S-31 的拍攝者或原始檔名",
     "用 S-20、S-31 作為雨晴風格樣本，比對 S-17 / S-18",
-    "整理小孟若回覆後要問的低風險問題",
     "暫停社群對話，改查 rain_clear_2007 或 yq_private"
   ],
   "memoryRule": "本對話內，每個玩家行動或對話都先讀取 GitHub 狀態，執行後寫回 GitHub，並再讀取驗證。"
