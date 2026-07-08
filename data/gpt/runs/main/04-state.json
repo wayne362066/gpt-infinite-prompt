@@ -1,9 +1,9 @@
 {
   "realityId": "REALITY-001",
-  "round": 5,
-  "currentTime": "第 2 天 上午 09:45",
+  "round": 6,
+  "currentTime": "第 2 天 上午 10:10",
   "currentLocation": "黑風住處",
-  "currentAction": "查詢地方論壇備份串完整內容",
+  "currentAction": "調查司機家屬相關留言",
   "status": "active",
   "factsDiscovered": [
     "送行人接受將會面地點改為公開場所。",
@@ -21,18 +21,24 @@
     "備份串提到司機家屬曾詢問真相。",
     "備份串提到第七個不是乘客，是開車的人。",
     "備份串中出現老周稱呼，可能是知情者。",
-    "失效附件檔名殘留為 claim_appendix_v1_scan.jpg。"
+    "失效附件檔名殘留為 claim_appendix_v1_scan.jpg。",
+    "司機家屬相關稱呼包含陳太太、小陳的媽媽、司機女兒。",
+    "司機家屬事故後約半年搬離青河南區舊公寓。",
+    "尋人貼快取標題提到青河事故司機陳國榮的家屬。",
+    "快取摘要殘留她說爸爸不是那種人。",
+    "陳國榮女兒相關學生論壇結果曾短暫出現後消失。"
   ],
   "itemsGained": [
     "Case-000 筆記本",
     "送行人的名片"
   ],
-  "nextPlan": "追查老周身份、claim_appendix_v1_scan.jpg、司機家屬留言、民安客運與保險理賠資料。",
+  "nextPlan": "追查司機女兒學生論壇殘影、青河南區舊公寓搬離紀錄、尋人貼快取、老周身份與 claim_appendix_v1_scan.jpg。",
   "availableActions": [
+    "追查司機女兒學生論壇殘影",
+    "查詢青河南區舊公寓搬離紀錄",
+    "搜尋她說爸爸不是那種人快取",
     "追查老周身份",
     "搜尋 claim_appendix_v1_scan.jpg",
-    "調查司機家屬相關留言",
-    "調查民安客運與保險理賠資料",
     "整理目前人物與事件可信度"
   ],
   "memoryRule": "本對話內，每個玩家行動或對話都先讀取 GitHub 狀態，執行後寫回 GitHub，並再讀取驗證。"
