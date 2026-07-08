@@ -1,6 +1,6 @@
 {"seq":1,"stage":"01","type":"run_start","summary":"建立新存檔，玩家黑風進入第一副本。"}
 {"seq":2,"stage":"02","type":"investigation","summary":"黑風觀察車內環境與乘客，要求全員交換情報。"}
-{"seq":3,"stage":"02","type":"truth_discovery","summary":"黑風確認主要人物與青河線索的關聯。"}
+{"seq":3,"stage":"02","type":"truth_discovery","summary":"黑風確認主要人物與青河線索的聯。"}
 {"seq":4,"stage":"02","type":"ending","summary":"黑風達成 HE：被記住的人。"}
 {"seq":5,"stage":"03","type":"reality_start","summary":"黑風回到現實，取得特殊道具：陳國榮的車票。"}
 {"seq":6,"stage":"04","type":"reality_action","summary":"黑風查看青河新聞，並收到送行人邀約。"}
@@ -27,3 +27,4 @@
 {"seq":27,"stage":"04","type":"investigation","summary":"黑風下載並離線初步檢查遮蔽縮圖目錄，找到 S-17 巷口、和平路、深色車輛與疑似民安相關招牌線索。"}
 {"seq":28,"stage":"04","type":"contact","summary":"黑風避開可疑照片，改用日常照片詢問張哲安；取得小孟、雨晴拍攝習慣、林若梅老師與南區外拍非正式性質線索。"}
 {"seq":29,"stage":"04","type":"contact","summary":"黑風用疑似雨晴拍攝風格的照片詢問拍攝者；張哲安指出 S-20 與 S-31 可能是雨晴拍的，並補充雨晴的拍攝理念與轉學後斷聯。"}
+{"seq":30,"stage":"04","type":"contact","summary":"黑風以喜歡雨晴藝術風格為理由詢問聯絡方式；張哲安透露 rain_clear_2007 可能停用、小孟曾收過雨晴的信，且雨晴留下過 yq 或 rain 資料夾。"}
