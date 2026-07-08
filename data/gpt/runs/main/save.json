@@ -1,11 +1,11 @@
 {
   "saveId": "main",
   "stage": "04",
-  "round": 1,
+  "round": 2,
   "realityDay": 1,
   "currentRunId": "RUN-001",
   "currentRealityId": "REALITY-001",
   "lastCompletedRunId": "RUN-001",
-  "updatedAt": "2026-07-07T17:00:00+08:00",
-  "notes": "第一副本已完成，已進入現實期。時間因玩家要求暫停，先補寫 GitHub 存檔。"
+  "updatedAt": "2026-07-07T20:30:00+08:00",
+  "notes": "第一副本已完成，現實期進行到青河中央圖書館會面後。世界時間暫停，等待玩家下一步。"
 }
