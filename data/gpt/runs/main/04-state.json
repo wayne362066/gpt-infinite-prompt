@@ -1,9 +1,9 @@
 {
   "realityId": "REALITY-001",
-  "round": 22,
-  "currentTime": "第 2 天 下午 16:05",
+  "round": 23,
+  "currentTime": "第 2 天 下午 16:22",
   "currentLocation": "黑風住處",
-  "currentAction": "用雨晴拍攝風格照片詢問拍攝者",
+  "currentAction": "詢問雨晴聯絡方式",
   "status": "active",
   "factsDiscovered": [
     "送行人接受將會面地點改為公開場所。",
@@ -107,7 +107,14 @@
     "張哲安表示 S-20 / bus_stop_empty 與 S-31 / road_after_rain 印象較深，應該是雨晴拍的。",
     "雨晴曾說人不在畫面裡也可以留下人在那裡的感覺。",
     "張哲安表示雨晴不太主動接案，也不是商業攝影者。",
-    "張哲安表示雨晴很早就轉走，後來幾乎沒與攝影社聯絡。"
+    "張哲安表示雨晴很早就轉走，後來幾乎沒與攝影社聯絡。",
+    "黑風以喜歡雨晴藝術風格為理由詢問聯絡方式。",
+    "張哲安表示沒有雨晴現在能用的聯絡方式。",
+    "張哲安表示雨晴轉走後有換過信箱，rain_clear_2007 好像也停了。",
+    "張哲安表示小孟以前好像收過雨晴一封信。",
+    "張哲安表示手上可能還有幾張雨晴拍攝的掃描檔。",
+    "張哲安表示雨晴以前留過一個小資料夾，名字好像是 yq 或 rain。",
+    "張哲安提醒不要一開始就找雨晴本人，她以前很討厭別人問她家裡的事。"
   ],
   "itemsGained": ["Case-000 筆記本", "送行人的名片"],
   "digitalFilesDownloaded": [
@@ -128,7 +135,7 @@
   ],
   "candidates": {
     "driverDaughter": [
-      {"name": "陳雨晴", "confidence": "高", "reason": "有班級殘留、搜尋異常、攝影社雨晴、Y.C.、掃描分工與拍攝風格多重對應。"},
+      {"name": "陳雨晴", "confidence": "高", "reason": "有班級殘留、搜尋異常、攝影社雨晴、Y.C.、掃描分工、拍攝風格與 rain_clear/yq/rain 線索多重對應。"},
       {"name": "陳雨萱", "confidence": "低", "reason": "僅符合陳雨X格式，缺少其他佐證。"},
       {"name": "陳雨桐", "confidence": "低", "reason": "僅符合陳雨X格式，缺少其他佐證。"}
     ],
@@ -136,31 +143,32 @@
       {"name": "張哲安", "alias": "阿哲", "account": "azhe_qhhs", "confidence": "高", "reason": "相簿留言殘影、upload by A-Zhe、舊帳號、作品集與活動攝影資料互相對應。"}
     ],
     "photoClubMembers": [
-      {"name": "孟佳怡", "alias": "小孟", "confidence": "中高", "reason": "張哲安稱小孟比較常拍人。"},
+      {"name": "孟佳怡", "alias": "小孟", "confidence": "中高", "reason": "張哲安稱小孟比較常拍人，且小孟可能收過雨晴的信。"},
       {"name": "林若梅", "role": "指導老師", "confidence": "中高", "reason": "張哲安提及指導老師為林若梅，且她曾要求少放部分照片。"}
     ]
   },
   "contactLeads": {
     "azhe": ["contact@zachan.photo", "zachan.photo", "Zhe An Chang 社群 DM 已送出且已讀，且已收到回覆", "張哲安｜活動攝影｜青河 / 現居北川", "北川市文化中心", "Zhe An Chang Photography"],
+    "yuching": ["rain_clear_2007（疑似停用）", "yq / rain 資料夾", "小孟曾收過雨晴一封信"],
     "possibleNextContacts": ["孟佳怡 / 小孟", "林若梅"]
   },
   "activeConversation": {
     "target": "張哲安 / Zhe An Chang",
     "channel": "社群 DM",
-    "status": "暫停聯絡，黑風正在整理雨晴拍攝風格線索",
-    "lastMessageAt": "第 2 天 下午 16:05",
-    "lastMessageSummary": "張哲安指出 S-20 與 S-31 可能是雨晴拍的，並說雨晴很早轉走，後來幾乎沒與攝影社聯絡。",
+    "status": "暫停聯絡，黑風正在整理雨晴聯絡與資料夾線索",
+    "lastMessageAt": "第 2 天 下午 16:22",
+    "lastMessageSummary": "張哲安表示沒有雨晴現用聯絡方式，rain_clear_2007 可能停用，小孟曾收過雨晴的信，雨晴曾留下 yq 或 rain 資料夾。",
     "riskLevel": "中",
-    "note": "藝術風格切入有效；可繼續詢問雨晴作品、轉走時間、小孟、林若梅或檢查 index。"
+    "note": "不要直接追問雨晴本人或家裡的事；可改問掃描檔、資料夾、小孟或 index。"
   },
-  "nextPlan": "可詢問雨晴是否留下其他作品或掃描目錄，也可檢查 index.txt 中 S-20、S-31、S-17、S-18、S-21 的拍攝者與原始檔名。",
+  "nextPlan": "可請張哲安找 yq/rain 資料夾或雨晴掃描檔，也可查 index.txt 或追小孟線索。",
   "availableActions": [
-    "詢問張哲安雨晴是否留下其他作品或掃描目錄",
-    "詢問張哲安雨晴轉走大概是什麼時間",
-    "檢查 index.txt 中 S-20、S-31、S-17、S-18、S-21 的拍攝者或原始檔名",
-    "用 S-20、S-31 作為風格樣本，比對 S-17 / S-18",
+    "詢問張哲安是否能找雨晴留下的 yq / rain 資料夾或掃描檔",
     "詢問小孟是否還能聯絡",
-    "詢問林若梅老師是否仍在青河高中"
+    "檢查 index.txt 中 S-20、S-31、S-17、S-18、S-21 的拍攝者或原始檔名",
+    "搜尋 rain_clear_2007 或 yq_private",
+    "用 S-20、S-31 作為風格樣本，比對 S-17 / S-18",
+    "詢問雨晴轉走大概是什麼時間"
   ],
   "memoryRule": "本對話內，每個玩家行動或對話都先讀取 GitHub 狀態，執行後寫回 GitHub，並再讀取驗證。"
 }
