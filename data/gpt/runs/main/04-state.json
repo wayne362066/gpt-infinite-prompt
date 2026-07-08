@@ -1,9 +1,9 @@
 {
   "realityId": "REALITY-001",
-  "round": 9,
-  "currentTime": "第 2 天 上午 11:35",
+  "round": 10,
+  "currentTime": "第 2 天 上午 12:05",
   "currentLocation": "黑風住處",
-  "currentAction": "以名字雨晴縮小資料範圍",
+  "currentAction": "搜尋 qhhs_photo_club_2007.jpg",
   "status": "active",
   "factsDiscovered": [
     "送行人接受將會面地點改為公開場所。",
@@ -41,7 +41,12 @@
     "二年三班舊留言板提到雨晴轉走後班導叫同學不要再問她家的事。",
     "雨晴可能與青河南區和平路舊公寓有關。",
     "舊信箱片段為 rain_clear_2007@，網域不明。",
-    "轉學去向只剩外縣市、私立、高二下轉入等殘片。"
+    "轉學去向只剩外縣市、私立、高二下轉入等殘片。",
+    "qhhs_photo_club_2007.jpg 確實存在過。",
+    "圖片快取標題殘留為青河高中攝影社 2007 校外活動。",
+    "備份縮圖檔名疑似 qhhs_photo_club_2007_backup_small.jpg。",
+    "圖片索引摘要殘留 scan by Y.C. / upload by A-Zhe。",
+    "圖片頁面快取摘要出現 album_17 與南區外拍。"
   ],
   "itemsGained": [
     "Case-000 筆記本",
@@ -54,12 +59,12 @@
       {"name": "陳雨桐", "confidence": "低", "reason": "僅符合陳雨X格式，缺少其他佐證。"}
     ]
   },
-  "nextPlan": "追查 rain_clear_2007、qhhs_photo_club_2007.jpg、青河南區和平路舊公寓、二年三班舊留言板與青河高中攝影社舊頁面。",
+  "nextPlan": "追查 qhhs_photo_club_2007_backup_small.jpg、album_17、南區外拍、阿哲身份、scan by Y.C. 與青河高中攝影社舊頁面。",
   "availableActions": [
-    "搜尋 rain_clear_2007 信箱片段",
-    "搜尋 qhhs_photo_club_2007.jpg",
-    "查詢青河南區和平路舊公寓資料",
-    "查詢二年三班舊留言板完整備份",
+    "搜尋 qhhs_photo_club_2007_backup_small.jpg",
+    "搜尋 album_17 與南區外拍",
+    "追查阿哲身份",
+    "搜尋 scan by Y.C.",
     "查詢青河高中攝影社舊頁面",
     "整理目前人物與事件可信度"
   ],
