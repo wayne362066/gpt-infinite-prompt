@@ -1,7 +1,7 @@
 {
   "realityId": "REALITY-001",
   "day": 2,
-  "currentTime": "第 2 天 上午 12:30",
+  "currentTime": "第 2 天 上午 12:55",
   "phase": "現實期",
   "currentLocation": "黑風住處",
   "playerAccount": {
@@ -43,7 +43,8 @@
     "driverDaughterCandidate": "轉學名單縮小後，陳雨晴為最高可能候選；低機率候選為陳雨萱與陳雨桐。",
     "yuchingIndirectSearch": "使用雨晴搜尋取得攝影社、二年三班、和平路舊公寓與 rain_clear_2007@ 線索。",
     "photoClubImage": "qhhs_photo_club_2007.jpg 曾存在，另有 backup_small、scan by Y.C.、A-Zhe、album_17 與南區外拍線索。",
-    "azhe": "阿哲可能是張哲安，帳號 azhe_qhhs，曾上傳照片；相簿留言提到雨晴不希望公開某張照片，且拍到她家樓下那台車。"
+    "azhe": "阿哲可能是張哲安，帳號 azhe_qhhs，曾上傳照片；相簿留言提到雨晴不希望公開某張照片，且拍到她家樓下那台車。",
+    "azheContact": "azhe_qhhs 聯絡線索包含 azhe.qhhs.photo@...、張哲安活動攝影現居北川、Zhe An Chang Photography。"
   },
   "timePaused": false,
   "pauseReason": null
