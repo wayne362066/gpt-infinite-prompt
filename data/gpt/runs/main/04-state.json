@@ -1,9 +1,9 @@
 {
   "realityId": "REALITY-001",
-  "round": 12,
-  "currentTime": "第 2 天 上午 12:55",
+  "round": 13,
+  "currentTime": "第 2 天 下午 13:20",
   "currentLocation": "黑風住處",
-  "currentAction": "搜尋 azhe_qhhs 聯絡方式",
+  "currentAction": "搜尋張哲安活動攝影與作品集",
   "status": "active",
   "factsDiscovered": [
     "送行人接受將會面地點改為公開場所。",
@@ -55,7 +55,12 @@
     "azhe_qhhs 舊相簿帳號頁摘要顯示站內信已停用。",
     "疑似阿哲聯絡信箱片段為 azhe.qhhs.photo@，網域不明。",
     "張哲安較新社群殘影顯示活動攝影、青河、現居北川。",
-    "公開作品集殘影標題為 Zhe An Chang Photography。"
+    "公開作品集殘影標題為 Zhe An Chang Photography。",
+    "張哲安作品集網域可能是 zachan.photo。",
+    "作品集 contact 頁快取出現 contact@zachan.photo。",
+    "北川青年影像週 2021 活動紀錄攝影為張哲安。",
+    "張哲安曾與北川市文化中心合作。",
+    "較新社群摘要出現 DM for archive prints。"
   ],
   "itemsGained": [
     "Case-000 筆記本",
@@ -68,24 +73,26 @@
       {"name": "陳雨桐", "confidence": "低", "reason": "僅符合陳雨X格式，缺少其他佐證。"}
     ],
     "photoUploader": [
-      {"name": "張哲安", "alias": "阿哲", "account": "azhe_qhhs", "confidence": "中高", "reason": "相簿留言殘影、upload by A-Zhe、舊帳號與較新攝影社群殘影互相對應。"}
+      {"name": "張哲安", "alias": "阿哲", "account": "azhe_qhhs", "confidence": "高", "reason": "相簿留言殘影、upload by A-Zhe、舊帳號、作品集與活動攝影資料互相對應。"}
     ]
   },
   "contactLeads": {
     "azhe": [
-      "azhe.qhhs.photo@...",
+      "contact@zachan.photo",
+      "zachan.photo",
       "張哲安｜活動攝影｜青河 / 現居北川",
+      "北川市文化中心",
       "Zhe An Chang Photography"
     ]
   },
-  "nextPlan": "補全 azhe.qhhs.photo@ 信箱網域、搜尋 Zhe An Chang Photography、搜尋張哲安 活動攝影 北川、準備低風險詢問訊息或追查雨晴說那張不要放上去。",
+  "nextPlan": "嘗試寄信至 contact@zachan.photo、透過北川市文化中心查詢張哲安活動攝影聯絡方式、查看 Zhe An Chang 社群頁、整理低風險詢問訊息或追查雨晴說那張不要放上去。",
   "availableActions": [
-    "補全 azhe.qhhs.photo 信箱網域",
-    "搜尋 Zhe An Chang Photography",
-    "搜尋張哲安 活動攝影 北川",
-    "嘗試透過社群平台聯絡張哲安",
+    "嘗試寄信至 contact@zachan.photo",
+    "透過北川市文化中心查詢張哲安活動攝影聯絡方式",
+    "嘗試登入或查看 Zhe An Chang 社群頁面",
     "整理一段低風險詢問訊息",
-    "追查雨晴說那張不要放上去"
+    "追查雨晴說那張不要放上去",
+    "搜尋 album_17 與南區外拍"
   ],
   "memoryRule": "本對話內，每個玩家行動或對話都先讀取 GitHub 狀態，執行後寫回 GitHub，並再讀取驗證。"
 }
