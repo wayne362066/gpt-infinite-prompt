@@ -1,7 +1,7 @@
 {
   "realityId": "REALITY-001",
   "day": 2,
-  "currentTime": "第 2 天 下午 16:48",
+  "currentTime": "第 2 天 下午 17:06",
   "phase": "現實期",
   "currentLocation": "黑風住處",
   "playerAccount": {"forumName": "黑風", "rank": "E級玩家", "unreadMessages": 0},
@@ -14,7 +14,8 @@
     {"name": "送行人", "status": "已見面", "note": "自稱玩家，願意提供新人情報，但不可全信。"},
     {"name": "觀測者", "status": "僅論壇接觸", "note": "警告黑風不要完全相信送行人。"},
     {"name": "記錄者", "status": "已見面", "note": "黑色長風衣男子，交付 Case-000 筆記本。"},
-    {"name": "張哲安 / Zhe An Chang", "status": "願意轉訊息給小孟", "note": "拒絕提供 S-17、S-18、S-21 原圖；可提供安全照片較清楚遮臉版與可疑照片裁切低解析遮蔽版。"}
+    {"name": "張哲安 / Zhe An Chang", "status": "已轉訊息給小孟", "note": "傳來 qhhs_2007_south_trip_selected_masked_v2.zip；重申 S-17、S-18、S-21 僅供場景確認，不可公開。"},
+    {"name": "孟佳怡 / 小孟", "status": "等待回覆", "note": "張哲安已代轉黑風的紀錄片素材徵集訊息。"}
   ],
   "investigation": {
     "qingheNews": "公開資料只剩簡化後的結案版本。",
@@ -36,7 +37,8 @@
     "photoClubMemory": "張哲安表示小孟常拍人，雨晴常整理底片與掃描，雨晴拍攝習慣偏向路、站牌、門口、背影；南區外拍不是正式校方活動，有人家裡出事後老師要求少放照片。",
     "yuchingPhotoStyle": "張哲安指出 S-20 與 S-31 可能是雨晴拍的；路、站牌、門口、背影多半是雨晴拍法，雨晴曾說人不在畫面裡也可以留下人在那裡的感覺。",
     "yuchingContact": "張哲安沒有雨晴現用聯絡方式；rain_clear_2007 可能停用，小孟曾收過雨晴的信，雨晴可能留下過 yq 或 rain 資料夾。",
-    "mixedPhotoRequest": "黑風混合安全照片與 S-17、S-18、S-21 詢問原圖與授權；張哲安拒絕提供 S-17、S-18、S-21 原圖，並願意轉正式訊息給小孟。"
+    "mixedPhotoRequest": "黑風混合安全照片與 S-17、S-18、S-21 詢問原圖與授權；張哲安拒絕提供 S-17、S-18、S-21 原圖，並願意轉正式訊息給小孟。",
+    "xiaomengForward": "黑風尊重張哲安限制並請他代轉小孟；張哲安已轉訊息，並傳來 selected_masked_v2 檔案供後續離線檢查。"
   },
   "timePaused": false,
   "pauseReason": null
