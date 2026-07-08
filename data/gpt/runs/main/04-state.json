@@ -1,10 +1,10 @@
 {
   "realityId": "REALITY-001",
-  "round": 2,
-  "currentTime": "晚上 20:30",
-  "currentLocation": "青河中央圖書館",
-  "currentAction": "圖書館會面結束",
-  "status": "time_paused_by_player",
+  "round": 3,
+  "currentTime": "第 2 天 上午 09:00",
+  "currentLocation": "黑風住處",
+  "currentAction": "休息後準備調查青河事件",
+  "status": "active",
   "factsDiscovered": [
     "送行人接受將會面地點改為公開場所。",
     "黑色長風衣男子在圖書館現身。",
@@ -13,17 +13,19 @@
     "記錄者交給黑風 Case-000 筆記本。",
     "送行人認為 Infinite 可能更像規則。",
     "送行人提醒黑風記錄一切並保持獨立判斷。",
-    "黑風確認自己的行動原則是先取得情報、理解規則、驗證推論，再做決策。"
+    "黑風確認自己的行動原則是先取得情報、理解規則、驗證推論，再做決策。",
+    "黑風決定今晚先吃飯休息，隔天再調查青河事件。"
   ],
   "itemsGained": [
     "Case-000 筆記本",
     "送行人的名片"
   ],
+  "nextPlan": "調查青河事件，優先取得官方紀錄、地方資料、乘客名單版本差異與陳國榮被抹除原因。",
   "availableActions": [
-    "返回住處",
-    "查看 Case-000",
-    "繼續詢問送行人",
-    "調查忘川咖啡廳",
+    "調查青河事故官方紀錄",
+    "搜尋地方論壇舊資料",
+    "追查 Passenger_List_v1_v2_v3",
+    "尋找陳國榮存在證據",
     "整理目前線索"
   ],
   "memoryRule": "本對話內，每個玩家行動或對話都先讀取 GitHub 狀態，執行後寫回 GitHub，並再讀取驗證。"
