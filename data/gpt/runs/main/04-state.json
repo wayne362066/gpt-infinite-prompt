@@ -1,9 +1,9 @@
 {
   "realityId": "REALITY-001",
-  "round": 19,
-  "currentTime": "第 2 天 下午 15:02",
+  "round": 20,
+  "currentTime": "第 2 天 下午 15:25",
   "currentLocation": "黑風住處",
-  "currentAction": "請張哲安整理縮圖目錄",
+  "currentAction": "下載並初步檢查遮蔽縮圖目錄",
   "status": "active",
   "factsDiscovered": [
     "送行人接受將會面地點改為公開場所。",
@@ -87,18 +87,49 @@
     "黑風請張哲安整理圖片，並自然追問先前找特定照片的人目的。",
     "張哲安表示先前那人問得很準，像是本來就知道照片裡有什麼。",
     "先前那人曾詢問原圖、是否能看清車牌、照片是否有備份。",
-    "張哲安已傳來 qhhs_2007_south_trip_contactsheet_masked.zip，標記為 masked contact sheet / low resolution preview only。"
+    "張哲安已傳來 qhhs_2007_south_trip_contactsheet_masked.zip，標記為 masked contact sheet / low resolution preview only。",
+    "黑風已下載 qhhs_2007_south_trip_contactsheet_masked.zip 並離線解壓檢查。",
+    "壓縮檔包含 contactsheet_2007_south_trip_masked.jpg、index.txt、readme.txt。",
+    "縮圖目錄共 42 張，所有人臉與車牌已被遮蔽。",
+    "S-17 / alley_corner 顯示巷口、老舊公寓、深色車輛與和平字樣殘留。",
+    "S-18 / alley_corner_2 疑似同一地點，遠處有一名女生站在公寓門口附近。",
+    "S-21 / bus_stop_backstreet 顯示公車站牌與疑似民字招牌。"
   ],
   "itemsGained": [
     "Case-000 筆記本",
     "送行人的名片"
   ],
-  "digitalFilesPending": [
+  "digitalFilesDownloaded": [
     {
       "filename": "qhhs_2007_south_trip_contactsheet_masked.zip",
       "source": "張哲安 / Zhe An Chang 社群 DM",
-      "status": "未下載未開啟",
-      "note": "遮蔽後低解析縮圖目錄，可能包含 2007 南區外拍巷口那張。"
+      "status": "已下載並離線初步檢查",
+      "contents": [
+        "contactsheet_2007_south_trip_masked.jpg",
+        "index.txt",
+        "readme.txt"
+      ],
+      "note": "遮蔽後低解析縮圖目錄，包含 S-17 巷口、S-18 同地點偏移角度、S-21 疑似民安相關招牌。"
+    }
+  ],
+  "photoFindings": [
+    {
+      "id": "S-17",
+      "label": "alley_corner",
+      "importance": "高",
+      "summary": "巷口、老舊公寓、深色車輛、和平字樣殘留，可能是巷口那張。"
+    },
+    {
+      "id": "S-18",
+      "label": "alley_corner_2",
+      "importance": "中高",
+      "summary": "疑似同一地點偏移角度，公寓門口附近有一名臉部被遮蔽的女生。"
+    },
+    {
+      "id": "S-21",
+      "label": "bus_stop_backstreet",
+      "importance": "中",
+      "summary": "可見公車站牌與疑似民字招牌，可能連到民安客運線索。"
     }
   ],
   "candidates": {
@@ -124,20 +155,20 @@
   "activeConversation": {
     "target": "張哲安 / Zhe An Chang",
     "channel": "社群 DM",
-    "status": "已收到縮圖壓縮檔，等待黑風處理",
-    "lastMessageAt": "第 2 天 下午 15:02",
-    "lastMessageSummary": "張哲安傳來 qhhs_2007_south_trip_contactsheet_masked.zip，並要求不要問原圖。",
+    "status": "暫停聯絡，黑風正在整理照片",
+    "lastMessageAt": "第 2 天 下午 15:25",
+    "lastMessageSummary": "黑風已表示先整理照片，有需要或進展再通知；張哲安要求不要外傳未遮版本。",
     "riskLevel": "中到高",
-    "note": "先前找照片的人關注原圖、車牌與備份。巷口那張高度疑似拍到雨晴家樓下車輛。"
+    "note": "不宜追問原圖；可先用遮蔽縮圖比對地點、車型與背景。"
   },
-  "nextPlan": "決定是否下載並離線檢查 qhhs_2007_south_trip_contactsheet_masked.zip；也可先搜尋檔名或詢問張哲安檔案內容與授權範圍。",
+  "nextPlan": "放大檢查 S-17 與 S-18 場景細節，比對和平路舊公寓與照片背景，檢查 index.txt 是否有拍攝時間或原始檔名。",
   "availableActions": [
-    "下載並離線檢查 qhhs_2007_south_trip_contactsheet_masked.zip",
-    "先詢問張哲安檔案內容與授權範圍",
-    "暫不下載，先搜尋檔名 qhhs_2007_south_trip_contactsheet_masked.zip",
-    "整理目前線索與風險",
-    "搜尋 2007 南區外拍 巷口",
-    "整理目前人物與事件可信度"
+    "放大檢查 S-17 / alley_corner 與 S-18 / alley_corner_2 的場景細節",
+    "比對和平路舊公寓與照片背景",
+    "檢查 index.txt 是否有拍攝時間或原始檔名",
+    "詢問張哲安是否可提供 S-17 的更高解析遮蔽版",
+    "搜尋 2007 南區外拍 alley_corner 或和平路 巷口 青河高中 攝影社",
+    "整理目前線索與風險"
   ],
   "memoryRule": "本對話內，每個玩家行動或對話都先讀取 GitHub 狀態，執行後寫回 GitHub，並再讀取驗證。"
 }
