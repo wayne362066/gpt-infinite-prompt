@@ -1,9 +1,9 @@
 {
   "realityId": "REALITY-001",
-  "round": 14,
-  "currentTime": "第 2 天 下午 13:45",
+  "round": 15,
+  "currentTime": "第 2 天 下午 14:05",
   "currentLocation": "黑風住處",
-  "currentAction": "查看 Zhe An Chang 社群頁面",
+  "currentAction": "透過社群平台私訊張哲安",
   "status": "active",
   "factsDiscovered": [
     "送行人接受將會面地點改為公開場所。",
@@ -65,7 +65,11 @@
     "社群頁個人簡介殘留 Event / Archive / School Memory。",
     "社群頁出現 DM for archive prints / old campus negatives。",
     "社群預覽貼文提到正在整理 2007-2009 校園底片。",
-    "社群標籤包含 archiveprints、schoolmemory、oldnegatives、beichuanphoto。"
+    "社群標籤包含 archiveprints、schoolmemory、oldnegatives、beichuanphoto。",
+    "黑風已透過社群平台向張哲安送出低風險私訊。",
+    "私訊內容以欣賞作品與詢問 2007-2009 青河高中攝影社舊相簿、底片或 archive prints 為理由。",
+    "訊息成功送出並已讀，但張哲安尚未回覆。",
+    "訊息已讀後，Zhe An Chang 個人頁簡介曾短暫變動。"
   ],
   "itemsGained": [
     "Case-000 筆記本",
@@ -85,20 +89,30 @@
     "azhe": [
       "contact@zachan.photo",
       "zachan.photo",
-      "Zhe An Chang 社群 DM",
+      "Zhe An Chang 社群 DM 已送出且已讀",
       "張哲安｜活動攝影｜青河 / 現居北川",
       "北川市文化中心",
       "Zhe An Chang Photography"
     ]
   },
-  "nextPlan": "整理低風險詢問訊息，或透過社群 DM / contact@zachan.photo 詢問 2007-2009 校園底片與舊相簿；也可追查 old campus negatives、雨晴說那張不要放上去、album_17 與南區外拍。",
+  "pendingMessages": [
+    {
+      "target": "張哲安 / Zhe An Chang",
+      "channel": "社群 DM",
+      "status": "已讀未回",
+      "sentAt": "第 2 天 下午 14:05",
+      "riskLevel": "低到中",
+      "note": "訊息以舊校園照片與 archive prints 為理由，未提青河事故或 Infinite。"
+    }
+  ],
+  "nextPlan": "等待張哲安回覆，或同步寄信至 contact@zachan.photo；也可搜尋 old campus negatives 與青河高中、追查雨晴說那張不要放上去、album_17 與南區外拍。",
   "availableActions": [
-    "整理一段低風險詢問訊息",
-    "透過社群平台私訊張哲安",
+    "等待張哲安回覆",
     "嘗試寄信至 contact@zachan.photo",
     "搜尋 old campus negatives 與青河高中",
     "追查雨晴說那張不要放上去",
-    "搜尋 album_17 與南區外拍"
+    "搜尋 album_17 與南區外拍",
+    "整理目前人物與事件可信度"
   ],
   "memoryRule": "本對話內，每個玩家行動或對話都先讀取 GitHub 狀態，執行後寫回 GitHub，並再讀取驗證。"
 }
