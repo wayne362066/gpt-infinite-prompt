@@ -1,7 +1,7 @@
 {
   "realityId": "REALITY-001",
   "day": 2,
-  "currentTime": "第 2 天 上午 09:20",
+  "currentTime": "第 2 天 上午 09:45",
   "phase": "現實期",
   "currentLocation": "黑風住處",
   "playerAccount": {
@@ -36,7 +36,8 @@
     "chenGuorong": "一般搜尋查無資料，但搜尋建議曾短暫浮現其姓名。",
     "libraryMeeting": "送行人、觀測者、記錄者三方線索已建立。",
     "minanBus": "當年營運公司可能是民安客運。",
-    "passengerList": "V1 名單可能來自保險或內部附件。"
+    "passengerList": "V1 名單可能來自保險或內部附件。",
+    "forumBackup": "備份串提到老周、司機家屬、第七個是開車的人、claim_appendix_v1_scan.jpg。"
   },
   "timePaused": false,
   "pauseReason": null
