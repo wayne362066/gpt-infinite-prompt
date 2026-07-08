@@ -1,9 +1,9 @@
 {
   "realityId": "REALITY-001",
-  "round": 10,
-  "currentTime": "第 2 天 上午 12:05",
+  "round": 11,
+  "currentTime": "第 2 天 上午 12:30",
   "currentLocation": "黑風住處",
-  "currentAction": "搜尋 qhhs_photo_club_2007.jpg",
+  "currentAction": "追查阿哲身份",
   "status": "active",
   "factsDiscovered": [
     "送行人接受將會面地點改為公開場所。",
@@ -46,7 +46,12 @@
     "圖片快取標題殘留為青河高中攝影社 2007 校外活動。",
     "備份縮圖檔名疑似 qhhs_photo_club_2007_backup_small.jpg。",
     "圖片索引摘要殘留 scan by Y.C. / upload by A-Zhe。",
-    "圖片頁面快取摘要出現 album_17 與南區外拍。"
+    "圖片頁面快取摘要出現 album_17 與南區外拍。",
+    "阿哲可能是青河高中攝影社二年五班成員。",
+    "阿哲可能名為張哲安。",
+    "阿哲舊相簿帳號可能是 azhe_qhhs。",
+    "相簿留言提到雨晴說那張不要放上去。",
+    "相簿留言殘片提到拍到她家樓下那台車。"
   ],
   "itemsGained": [
     "Case-000 筆記本",
@@ -57,15 +62,18 @@
       {"name": "陳雨晴", "confidence": "高", "reason": "有班級殘留、搜尋異常、可能對應攝影社雨晴。"},
       {"name": "陳雨萱", "confidence": "低", "reason": "僅符合陳雨X格式，缺少其他佐證。"},
       {"name": "陳雨桐", "confidence": "低", "reason": "僅符合陳雨X格式，缺少其他佐證。"}
+    ],
+    "photoUploader": [
+      {"name": "張哲安", "alias": "阿哲", "account": "azhe_qhhs", "confidence": "中", "reason": "相簿留言殘影與 upload by A-Zhe 對應。"}
     ]
   },
-  "nextPlan": "追查 qhhs_photo_club_2007_backup_small.jpg、album_17、南區外拍、阿哲身份、scan by Y.C. 與青河高中攝影社舊頁面。",
+  "nextPlan": "追查 azhe_qhhs、張哲安 攝影 青河、雨晴說那張不要放上去、album_17 與南區外拍。",
   "availableActions": [
-    "搜尋 qhhs_photo_club_2007_backup_small.jpg",
+    "搜尋 azhe_qhhs",
+    "搜尋張哲安 攝影 青河",
+    "追查雨晴說那張不要放上去",
     "搜尋 album_17 與南區外拍",
-    "追查阿哲身份",
-    "搜尋 scan by Y.C.",
-    "查詢青河高中攝影社舊頁面",
+    "搜尋 qhhs_photo_club_2007_backup_small.jpg",
     "整理目前人物與事件可信度"
   ],
   "memoryRule": "本對話內，每個玩家行動或對話都先讀取 GitHub 狀態，執行後寫回 GitHub，並再讀取驗證。"
