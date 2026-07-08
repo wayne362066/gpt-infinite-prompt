@@ -1,7 +1,7 @@
 {
   "realityId": "REALITY-001",
   "day": 2,
-  "currentTime": "第 2 天 上午 09:45",
+  "currentTime": "第 2 天 上午 10:10",
   "phase": "現實期",
   "currentLocation": "黑風住處",
   "playerAccount": {
@@ -37,7 +37,8 @@
     "libraryMeeting": "送行人、觀測者、記錄者三方線索已建立。",
     "minanBus": "當年營運公司可能是民安客運。",
     "passengerList": "V1 名單可能來自保險或內部附件。",
-    "forumBackup": "備份串提到老周、司機家屬、第七個是開車的人、claim_appendix_v1_scan.jpg。"
+    "forumBackup": "備份串提到老周、司機家屬、第七個是開車的人、claim_appendix_v1_scan.jpg。",
+    "driverFamily": "司機家屬線索包含陳太太、小陳的媽媽、司機女兒、青河南區舊公寓與尋人貼快取。"
   },
   "timePaused": false,
   "pauseReason": null
