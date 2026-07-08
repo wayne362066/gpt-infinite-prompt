@@ -1,9 +1,9 @@
 {
   "realityId": "REALITY-001",
-  "round": 15,
-  "currentTime": "第 2 天 下午 14:05",
+  "round": 16,
+  "currentTime": "第 2 天 下午 14:30",
   "currentLocation": "黑風住處",
-  "currentAction": "透過社群平台私訊張哲安",
+  "currentAction": "等待張哲安回覆",
   "status": "active",
   "factsDiscovered": [
     "送行人接受將會面地點改為公開場所。",
@@ -69,7 +69,11 @@
     "黑風已透過社群平台向張哲安送出低風險私訊。",
     "私訊內容以欣賞作品與詢問 2007-2009 青河高中攝影社舊相簿、底片或 archive prints 為理由。",
     "訊息成功送出並已讀，但張哲安尚未回覆。",
-    "訊息已讀後，Zhe An Chang 個人頁簡介曾短暫變動。"
+    "訊息已讀後，Zhe An Chang 個人頁簡介曾短暫變動。",
+    "張哲安回覆確認手上有部分青河高中底片，但沒有全部整理。",
+    "張哲安要求提供年份、社團或活動名稱。",
+    "張哲安表示有些照片不會公開傳，最多只能看縮圖確認。",
+    "張哲安追問黑風找的是哪一張。"
   ],
   "itemsGained": [
     "Case-000 筆記本",
@@ -89,29 +93,29 @@
     "azhe": [
       "contact@zachan.photo",
       "zachan.photo",
-      "Zhe An Chang 社群 DM 已送出且已讀",
+      "Zhe An Chang 社群 DM 已送出且已讀，且已收到回覆",
       "張哲安｜活動攝影｜青河 / 現居北川",
       "北川市文化中心",
       "Zhe An Chang Photography"
     ]
   },
-  "pendingMessages": [
-    {
-      "target": "張哲安 / Zhe An Chang",
-      "channel": "社群 DM",
-      "status": "已讀未回",
-      "sentAt": "第 2 天 下午 14:05",
-      "riskLevel": "低到中",
-      "note": "訊息以舊校園照片與 archive prints 為理由，未提青河事故或 Infinite。"
-    }
-  ],
-  "nextPlan": "等待張哲安回覆，或同步寄信至 contact@zachan.photo；也可搜尋 old campus negatives 與青河高中、追查雨晴說那張不要放上去、album_17 與南區外拍。",
+  "pendingMessages": [],
+  "activeConversation": {
+    "target": "張哲安 / Zhe An Chang",
+    "channel": "社群 DM",
+    "status": "等待黑風回覆",
+    "lastMessageAt": "第 2 天 下午 14:30",
+    "lastMessageSummary": "張哲安表示有部分青河高中底片，要求提供年份、社團或活動名稱，並問黑風找的是哪一張。",
+    "riskLevel": "中",
+    "note": "仍需保持低風險，不宜直接提青河事故、陳國榮、雨晴或 Infinite。"
+  },
+  "nextPlan": "回覆張哲安時可使用 2007、青河高中攝影社、南區外拍、album_17 或校園活動照等低風險條件；也可暫停回覆先查 album_17 與南區外拍。",
   "availableActions": [
-    "等待張哲安回覆",
-    "嘗試寄信至 contact@zachan.photo",
-    "搜尋 old campus negatives 與青河高中",
-    "追查雨晴說那張不要放上去",
-    "搜尋 album_17 與南區外拍",
+    "回覆張哲安：詢問 2007 年青河高中攝影社南區外拍或 album_17",
+    "回覆張哲安：只說想找 2007-2009 青河高中攝影社舊校園活動照",
+    "回覆張哲安：詢問是否能先看縮圖目錄",
+    "暫不回覆，先搜尋 album_17 與南區外拍",
+    "暫不回覆，先整理低風險回覆內容",
     "整理目前人物與事件可信度"
   ],
   "memoryRule": "本對話內，每個玩家行動或對話都先讀取 GitHub 狀態，執行後寫回 GitHub，並再讀取驗證。"
