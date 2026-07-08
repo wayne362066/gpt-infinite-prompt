@@ -9,3 +9,4 @@
 {"seq":9,"stage":"04","type":"system","summary":"玩家要求之後每次行動都依 GitHub 狀態讀取、執行、寫回、驗證。"}
 {"seq":10,"stage":"04","type":"reality_action","summary":"黑風決定今晚先吃飯休息，隔天再調查青河事件。"}
 {"seq":11,"stage":"04","type":"investigation","summary":"黑風開始第 2 天青河調查，取得民安客運與 V1 名單可能來源的新線索。"}
+{"seq":12,"stage":"04","type":"investigation","summary":"黑風查詢地方論壇備份串，取得老周、司機家屬與 claim_appendix_v1_scan.jpg 線索。"}
