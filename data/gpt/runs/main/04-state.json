@@ -1,9 +1,9 @@
 {
   "realityId": "REALITY-001",
-  "round": 21,
-  "currentTime": "第 2 天 下午 15:42",
+  "round": 22,
+  "currentTime": "第 2 天 下午 16:05",
   "currentLocation": "黑風住處",
-  "currentAction": "用日常照片詢問社團成員",
+  "currentAction": "用雨晴拍攝風格照片詢問拍攝者",
   "status": "active",
   "factsDiscovered": [
     "送行人接受將會面地點改為公開場所。",
@@ -101,33 +101,34 @@
     "張哲安表示雨晴拍攝習慣偏向路、站牌、門口、背影。",
     "張哲安提到攝影社指導老師是林若梅。",
     "張哲安表示南區外拍不是正式校方活動，比較像社團自己跑出去拍。",
-    "張哲安表示後來有些照片沒有上傳，是因為有人家裡出事，老師叫他們少放一點。"
+    "張哲安表示後來有些照片沒有上傳，是因為有人家裡出事，老師叫他們少放一點。",
+    "黑風挑選疑似雨晴拍攝風格的非敏感照片詢問拍攝者與合作可能。",
+    "張哲安表示這些路、站牌、門口、背影多半是雨晴那類拍法。",
+    "張哲安表示 S-20 / bus_stop_empty 與 S-31 / road_after_rain 印象較深，應該是雨晴拍的。",
+    "雨晴曾說人不在畫面裡也可以留下人在那裡的感覺。",
+    "張哲安表示雨晴不太主動接案，也不是商業攝影者。",
+    "張哲安表示雨晴很早就轉走，後來幾乎沒與攝影社聯絡。"
   ],
-  "itemsGained": [
-    "Case-000 筆記本",
-    "送行人的名片"
-  ],
+  "itemsGained": ["Case-000 筆記本", "送行人的名片"],
   "digitalFilesDownloaded": [
     {
       "filename": "qhhs_2007_south_trip_contactsheet_masked.zip",
       "source": "張哲安 / Zhe An Chang 社群 DM",
       "status": "已下載並離線初步檢查",
-      "contents": [
-        "contactsheet_2007_south_trip_masked.jpg",
-        "index.txt",
-        "readme.txt"
-      ],
+      "contents": ["contactsheet_2007_south_trip_masked.jpg", "index.txt", "readme.txt"],
       "note": "遮蔽後低解析縮圖目錄，包含 S-17 巷口、S-18 同地點偏移角度、S-21 疑似民安相關招牌。"
     }
   ],
   "photoFindings": [
     {"id": "S-17", "label": "alley_corner", "importance": "高", "summary": "巷口、老舊公寓、深色車輛、和平字樣殘留，可能是巷口那張。"},
     {"id": "S-18", "label": "alley_corner_2", "importance": "中高", "summary": "疑似同一地點偏移角度，公寓門口附近有一名臉部被遮蔽的女生。"},
-    {"id": "S-21", "label": "bus_stop_backstreet", "importance": "中", "summary": "可見公車站牌與疑似民字招牌，可能連到民安客運線索。"}
+    {"id": "S-20", "label": "bus_stop_empty", "importance": "中高", "summary": "空的公車站牌與夕光，張哲安認為應該是雨晴拍的，可作為雨晴風格樣本。"},
+    {"id": "S-21", "label": "bus_stop_backstreet", "importance": "中", "summary": "可見公車站牌與疑似民字招牌，可能連到民安客運線索。"},
+    {"id": "S-31", "label": "road_after_rain", "importance": "中高", "summary": "雨後路面反光，張哲安認為應該是雨晴拍的，可作為雨晴風格樣本。"}
   ],
   "candidates": {
     "driverDaughter": [
-      {"name": "陳雨晴", "confidence": "高", "reason": "有班級殘留、搜尋異常、可能對應攝影社雨晴。"},
+      {"name": "陳雨晴", "confidence": "高", "reason": "有班級殘留、搜尋異常、攝影社雨晴、Y.C.、掃描分工與拍攝風格多重對應。"},
       {"name": "陳雨萱", "confidence": "低", "reason": "僅符合陳雨X格式，缺少其他佐證。"},
       {"name": "陳雨桐", "confidence": "低", "reason": "僅符合陳雨X格式，缺少其他佐證。"}
     ],
@@ -140,36 +141,26 @@
     ]
   },
   "contactLeads": {
-    "azhe": [
-      "contact@zachan.photo",
-      "zachan.photo",
-      "Zhe An Chang 社群 DM 已送出且已讀，且已收到回覆",
-      "張哲安｜活動攝影｜青河 / 現居北川",
-      "北川市文化中心",
-      "Zhe An Chang Photography"
-    ],
-    "possibleNextContacts": [
-      "孟佳怡 / 小孟",
-      "林若梅"
-    ]
+    "azhe": ["contact@zachan.photo", "zachan.photo", "Zhe An Chang 社群 DM 已送出且已讀，且已收到回覆", "張哲安｜活動攝影｜青河 / 現居北川", "北川市文化中心", "Zhe An Chang Photography"],
+    "possibleNextContacts": ["孟佳怡 / 小孟", "林若梅"]
   },
   "activeConversation": {
     "target": "張哲安 / Zhe An Chang",
     "channel": "社群 DM",
-    "status": "暫停聯絡，黑風正在整理照片與社團人物線索",
-    "lastMessageAt": "第 2 天 下午 15:42",
-    "lastMessageSummary": "張哲安說明照片使用限制、社團分工、雨晴拍攝習慣、林若梅老師與南區外拍非正式性質。",
+    "status": "暫停聯絡，黑風正在整理雨晴拍攝風格線索",
+    "lastMessageAt": "第 2 天 下午 16:05",
+    "lastMessageSummary": "張哲安指出 S-20 與 S-31 可能是雨晴拍的，並說雨晴很早轉走，後來幾乎沒與攝影社聯絡。",
     "riskLevel": "中",
-    "note": "日常照片切入有效降低警覺；可繼續詢問社團成員、路線、老師或 index 資訊。"
+    "note": "藝術風格切入有效；可繼續詢問雨晴作品、轉走時間、小孟、林若梅或檢查 index。"
   },
-  "nextPlan": "可詢問林若梅老師、小孟或南區外拍路線；也可檢查 index.txt 是否記錄 S-17、S-18、S-21 的拍攝者、時間與原始檔名。",
+  "nextPlan": "可詢問雨晴是否留下其他作品或掃描目錄，也可檢查 index.txt 中 S-20、S-31、S-17、S-18、S-21 的拍攝者與原始檔名。",
   "availableActions": [
-    "詢問張哲安是否記得林若梅老師是否仍在青河高中",
-    "詢問張哲安南區外拍是哪一天、路線怎麼走",
+    "詢問張哲安雨晴是否留下其他作品或掃描目錄",
+    "詢問張哲安雨晴轉走大概是什麼時間",
+    "檢查 index.txt 中 S-20、S-31、S-17、S-18、S-21 的拍攝者或原始檔名",
+    "用 S-20、S-31 作為風格樣本，比對 S-17 / S-18",
     "詢問小孟是否還能聯絡",
-    "檢查 index.txt 是否有 S-17、S-18、S-21 的拍攝者或原始檔名",
-    "放大檢查 S-17 / S-18 場景細節",
-    "比對和平路舊公寓與照片背景"
+    "詢問林若梅老師是否仍在青河高中"
   ],
   "memoryRule": "本對話內，每個玩家行動或對話都先讀取 GitHub 狀態，執行後寫回 GitHub，並再讀取驗證。"
 }
