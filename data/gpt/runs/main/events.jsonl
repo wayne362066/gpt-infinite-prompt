@@ -8,3 +8,4 @@
 {"seq":8,"stage":"04","type":"reality_action","summary":"黑風完成青河中央圖書館會面，取得 Case-000 筆記本與送行人名片。"}
 {"seq":9,"stage":"04","type":"system","summary":"玩家要求之後每次行動都依 GitHub 狀態讀取、執行、寫回、驗證。"}
 {"seq":10,"stage":"04","type":"reality_action","summary":"黑風決定今晚先吃飯休息，隔天再調查青河事件。"}
+{"seq":11,"stage":"04","type":"investigation","summary":"黑風開始第 2 天青河調查，取得民安客運與 V1 名單可能來源的新線索。"}
