@@ -1,7 +1,7 @@
 {
   "realityId": "REALITY-001",
   "day": 2,
-  "currentTime": "第 2 天 下午 15:25",
+  "currentTime": "第 2 天 下午 15:42",
   "phase": "現實期",
   "currentLocation": "黑風住處",
   "playerAccount": {
@@ -15,26 +15,10 @@
     "qingheCentralLibrary": "已完成與送行人的公開會面。"
   },
   "contacts": [
-    {
-      "name": "送行人",
-      "status": "已見面",
-      "note": "自稱玩家，願意提供新人情報，但不可全信。"
-    },
-    {
-      "name": "觀測者",
-      "status": "僅論壇接觸",
-      "note": "警告黑風不要完全相信送行人。"
-    },
-    {
-      "name": "記錄者",
-      "status": "已見面",
-      "note": "黑色長風衣男子，交付 Case-000 筆記本。"
-    },
-    {
-      "name": "張哲安 / Zhe An Chang",
-      "status": "暫停聯絡，黑風正在整理照片",
-      "note": "傳來 qhhs_2007_south_trip_contactsheet_masked.zip，要求不要外傳未遮版本。"
-    }
+    {"name": "送行人", "status": "已見面", "note": "自稱玩家，願意提供新人情報，但不可全信。"},
+    {"name": "觀測者", "status": "僅論壇接觸", "note": "警告黑風不要完全相信送行人。"},
+    {"name": "記錄者", "status": "已見面", "note": "黑色長風衣男子，交付 Case-000 筆記本。"},
+    {"name": "張哲安 / Zhe An Chang", "status": "暫停聯絡，黑風正在整理照片與社團人物線索", "note": "說明照片使用限制、社團分工、雨晴拍攝習慣、林若梅老師與南區外拍非正式性質。"}
   ],
   "investigation": {
     "qingheNews": "公開資料只剩簡化後的結案版本。",
@@ -52,7 +36,8 @@
     "azheContact": "azhe_qhhs 聯絡線索包含 azhe.qhhs.photo@...、張哲安活動攝影現居北川、Zhe An Chang Photography。",
     "zheAnContact": "搜尋張哲安活動攝影與作品集後，取得 zachan.photo、contact@zachan.photo、北川市文化中心與 DM for archive prints 線索。",
     "zheAnSocial": "Zhe An Chang 社群頁可能仍有效，公開摘要提到 Event / Archive / School Memory、old campus negatives 與 2007-2009 校園底片。",
-    "zheAnDm": "黑風已用低風險訊息私訊張哲安；張哲安透露先前找照片的人問得很準，關注原圖、車牌與備份；遮蔽縮圖中 S-17 可能是巷口那張，並出現和平路、深色車輛與疑似民安相關招牌線索。"
+    "zheAnDm": "黑風已用低風險訊息私訊張哲安；張哲安透露先前找照片的人問得很準，關注原圖、車牌與備份；遮蔽縮圖中 S-17 可能是巷口那張，並出現和平路、深色車輛與疑似民安相關招牌線索。",
+    "photoClubMemory": "張哲安表示小孟常拍人，雨晴常整理底片與掃描，雨晴拍攝習慣偏向路、站牌、門口、背影；南區外拍不是正式校方活動，有人家裡出事後老師要求少放照片。"
   },
   "timePaused": false,
   "pauseReason": null
