@@ -1,7 +1,7 @@
 {
   "realityId": "REALITY-001",
   "day": 2,
-  "currentTime": "第 2 天 下午 14:05",
+  "currentTime": "第 2 天 下午 14:30",
   "phase": "現實期",
   "currentLocation": "黑風住處",
   "playerAccount": {
@@ -32,8 +32,8 @@
     },
     {
       "name": "張哲安 / Zhe An Chang",
-      "status": "已私訊，已讀未回",
-      "note": "疑似青河高中攝影社阿哲，可能保留 2007-2009 校園底片。"
+      "status": "已回覆，等待黑風回覆",
+      "note": "疑似青河高中攝影社阿哲，確認持有部分青河高中舊底片。"
     }
   ],
   "investigation": {
@@ -52,7 +52,7 @@
     "azheContact": "azhe_qhhs 聯絡線索包含 azhe.qhhs.photo@...、張哲安活動攝影現居北川、Zhe An Chang Photography。",
     "zheAnContact": "搜尋張哲安活動攝影與作品集後，取得 zachan.photo、contact@zachan.photo、北川市文化中心與 DM for archive prints 線索。",
     "zheAnSocial": "Zhe An Chang 社群頁可能仍有效，公開摘要提到 Event / Archive / School Memory、old campus negatives 與 2007-2009 校園底片。",
-    "zheAnDm": "黑風已用低風險訊息私訊張哲安，訊息已讀未回；訊息已讀後個人頁簡介曾短暫變動。"
+    "zheAnDm": "黑風已用低風險訊息私訊張哲安；張哲安已回覆，確認有部分青河高中底片，並要求提供年份、社團或活動名稱。"
   },
   "timePaused": false,
   "pauseReason": null
