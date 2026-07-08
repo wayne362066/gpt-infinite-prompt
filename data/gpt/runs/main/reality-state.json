@@ -1,7 +1,7 @@
 {
   "realityId": "REALITY-001",
   "day": 2,
-  "currentTime": "第 2 天 上午 10:10",
+  "currentTime": "第 2 天 上午 10:35",
   "phase": "現實期",
   "currentLocation": "黑風住處",
   "playerAccount": {
@@ -38,7 +38,8 @@
     "minanBus": "當年營運公司可能是民安客運。",
     "passengerList": "V1 名單可能來自保險或內部附件。",
     "forumBackup": "備份串提到老周、司機家屬、第七個是開車的人、claim_appendix_v1_scan.jpg。",
-    "driverFamily": "司機家屬線索包含陳太太、小陳的媽媽、司機女兒、青河南區舊公寓與尋人貼快取。"
+    "driverFamily": "司機家屬線索包含陳太太、小陳的媽媽、司機女兒、青河南區舊公寓與尋人貼快取。",
+    "driverDaughter": "青河高中學生論壇殘影提到陳學姐、陳雨、轉學與 qhhs_photo_club_2007.jpg。"
   },
   "timePaused": false,
   "pauseReason": null
