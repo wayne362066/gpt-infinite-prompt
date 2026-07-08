@@ -1,11 +1,11 @@
 {
   "saveId": "main",
   "stage": "04",
-  "round": 25,
+  "round": 26,
   "realityDay": 2,
   "currentRunId": "RUN-001",
   "currentRealityId": "REALITY-001",
   "lastCompletedRunId": "RUN-001",
-  "updatedAt": "2026-07-08T17:06:00+08:00",
-  "notes": "第 2 天下午，黑風尊重張哲安限制並請他代轉小孟；張哲安傳來 qhhs_2007_south_trip_selected_masked_v2.zip，並表示已將訊息轉給小孟。"
+  "updatedAt": "2026-07-08T17:28:00+08:00",
+  "notes": "第 2 天下午，黑風下載並離線檢查 qhhs_2007_south_trip_selected_masked_v2.zip；selected_index_v2 顯示 S-17、S-18、S-20、S-21 來源為 yq_private / roll04，S-31 來源為 yq_private / roll07，並取得和平路17巷、民安南區支線等細部線索。"
 }
