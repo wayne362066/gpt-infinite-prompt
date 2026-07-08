@@ -1,7 +1,7 @@
 {
   "realityId": "REALITY-001",
   "day": 2,
-  "currentTime": "第 2 天 上午 11:35",
+  "currentTime": "第 2 天 上午 12:05",
   "phase": "現實期",
   "currentLocation": "黑風住處",
   "playerAccount": {
@@ -41,7 +41,8 @@
     "driverFamily": "司機家屬線索包含陳太太、小陳的媽媽、司機女兒、青河南區舊公寓與尋人貼快取。",
     "driverDaughter": "青河高中學生論壇殘影提到陳學姐、陳雨、轉學與 qhhs_photo_club_2007.jpg。",
     "driverDaughterCandidate": "轉學名單縮小後，陳雨晴為最高可能候選；低機率候選為陳雨萱與陳雨桐。",
-    "yuchingIndirectSearch": "使用雨晴搜尋取得攝影社、二年三班、和平路舊公寓與 rain_clear_2007@ 線索。"
+    "yuchingIndirectSearch": "使用雨晴搜尋取得攝影社、二年三班、和平路舊公寓與 rain_clear_2007@ 線索。",
+    "photoClubImage": "qhhs_photo_club_2007.jpg 曾存在，另有 backup_small、scan by Y.C.、A-Zhe、album_17 與南區外拍線索。"
   },
   "timePaused": false,
   "pauseReason": null
