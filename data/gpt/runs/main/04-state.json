@@ -1,9 +1,9 @@
 {
   "realityId": "REALITY-001",
-  "round": 18,
-  "currentTime": "第 2 天 下午 14:47",
+  "round": 19,
+  "currentTime": "第 2 天 下午 15:02",
   "currentLocation": "黑風住處",
-  "currentAction": "以紀錄片理由回覆張哲安",
+  "currentAction": "請張哲安整理縮圖目錄",
   "status": "active",
   "factsDiscovered": [
     "送行人接受將會面地點改為公開場所。",
@@ -83,11 +83,23 @@
     "張哲安表示先前找照片的人和黑風不太一樣，不是做紀錄，也不是找校園回憶。",
     "張哲安透露對方只問一張照片：2007、南區外拍、巷口那張。",
     "張哲安表示自己沒有給對方原圖。",
-    "張哲安再次表示可先傳縮圖目錄，但會遮車牌和人臉，有些底片不一定會給。"
+    "張哲安再次表示可先傳縮圖目錄，但會遮車牌和人臉，有些底片不一定會給。",
+    "黑風請張哲安整理圖片，並自然追問先前找特定照片的人目的。",
+    "張哲安表示先前那人問得很準，像是本來就知道照片裡有什麼。",
+    "先前那人曾詢問原圖、是否能看清車牌、照片是否有備份。",
+    "張哲安已傳來 qhhs_2007_south_trip_contactsheet_masked.zip，標記為 masked contact sheet / low resolution preview only。"
   ],
   "itemsGained": [
     "Case-000 筆記本",
     "送行人的名片"
+  ],
+  "digitalFilesPending": [
+    {
+      "filename": "qhhs_2007_south_trip_contactsheet_masked.zip",
+      "source": "張哲安 / Zhe An Chang 社群 DM",
+      "status": "未下載未開啟",
+      "note": "遮蔽後低解析縮圖目錄，可能包含 2007 南區外拍巷口那張。"
+    }
   ],
   "candidates": {
     "driverDaughter": [
@@ -112,19 +124,19 @@
   "activeConversation": {
     "target": "張哲安 / Zhe An Chang",
     "channel": "社群 DM",
-    "status": "等待黑風回覆",
-    "lastMessageAt": "第 2 天 下午 14:47",
-    "lastMessageSummary": "張哲安透露先前有人只找 2007 南區外拍巷口那張照片，且他沒有給原圖；可傳遮蔽後的縮圖目錄。",
+    "status": "已收到縮圖壓縮檔，等待黑風處理",
+    "lastMessageAt": "第 2 天 下午 15:02",
+    "lastMessageSummary": "張哲安傳來 qhhs_2007_south_trip_contactsheet_masked.zip，並要求不要問原圖。",
     "riskLevel": "中到高",
-    "note": "巷口那張高度疑似拍到雨晴家樓下車輛。仍不宜直接提青河事故、陳國榮、雨晴或 Infinite。"
+    "note": "先前找照片的人關注原圖、車牌與備份。巷口那張高度疑似拍到雨晴家樓下車輛。"
   },
-  "nextPlan": "可請張哲安先傳遮臉遮車牌後的縮圖目錄，優先要求 2007 南區外拍與未公開底片；也可追問巷口那張是否涉及隱私，但風險較高。",
+  "nextPlan": "決定是否下載並離線檢查 qhhs_2007_south_trip_contactsheet_masked.zip；也可先搜尋檔名或詢問張哲安檔案內容與授權範圍。",
   "availableActions": [
-    "回覆張哲安：可以，先看遮臉遮車牌後的縮圖目錄",
-    "回覆張哲安：想先看 2007 南區外拍與社團成果展縮圖目錄",
-    "回覆張哲安：詢問巷口那張是否不能公開，是不是涉及隱私",
-    "暫停回覆，先整理目前線索與風險",
-    "暫停回覆，先搜尋 2007 南區外拍 巷口",
+    "下載並離線檢查 qhhs_2007_south_trip_contactsheet_masked.zip",
+    "先詢問張哲安檔案內容與授權範圍",
+    "暫不下載，先搜尋檔名 qhhs_2007_south_trip_contactsheet_masked.zip",
+    "整理目前線索與風險",
+    "搜尋 2007 南區外拍 巷口",
     "整理目前人物與事件可信度"
   ],
   "memoryRule": "本對話內，每個玩家行動或對話都先讀取 GitHub 狀態，執行後寫回 GitHub，並再讀取驗證。"
