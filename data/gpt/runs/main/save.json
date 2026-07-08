@@ -1,11 +1,11 @@
 {
   "saveId": "main",
   "stage": "04",
-  "round": 2,
-  "realityDay": 1,
+  "round": 3,
+  "realityDay": 2,
   "currentRunId": "RUN-001",
   "currentRealityId": "REALITY-001",
   "lastCompletedRunId": "RUN-001",
-  "updatedAt": "2026-07-07T20:30:00+08:00",
-  "notes": "第一副本已完成，現實期進行到青河中央圖書館會面後。世界時間暫停，等待玩家下一步。"
+  "updatedAt": "2026-07-08T09:00:00+08:00",
+  "notes": "第一副本已完成。黑風完成圖書館會面後選擇吃飯休息，隔天準備繼續調查青河事件。"
 }
