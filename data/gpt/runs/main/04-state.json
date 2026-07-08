@@ -1,12 +1,30 @@
 {
   "realityId": "REALITY-001",
   "round": 2,
-  "currentTime": "20:30",
-  "currentLocation": "library",
-  "currentAction": "meeting_done",
-  "status": "paused",
-  "factsDiscovered": ["meeting_done", "new_contact", "new_notebook", "new_card"],
-  "itemsGained": ["Case-000", "contact_card"],
-  "availableActions": ["go_home", "read_case_000", "ask_more", "investigate_cafe", "organize_notes"],
-  "memoryRule": "read_then_write_each_turn"
+  "currentTime": "晚上 20:30",
+  "currentLocation": "青河中央圖書館",
+  "currentAction": "圖書館會面結束",
+  "status": "time_paused_by_player",
+  "factsDiscovered": [
+    "送行人接受將會面地點改為公開場所。",
+    "黑色長風衣男子在圖書館現身。",
+    "觀測者表示黑色長風衣男子不是觀測者。",
+    "黑色長風衣男子自稱記錄者。",
+    "記錄者交給黑風 Case-000 筆記本。",
+    "送行人認為 Infinite 可能更像規則。",
+    "送行人提醒黑風記錄一切並保持獨立判斷。",
+    "黑風確認自己的行動原則是先取得情報、理解規則、驗證推論，再做決策。"
+  ],
+  "itemsGained": [
+    "Case-000 筆記本",
+    "送行人的名片"
+  ],
+  "availableActions": [
+    "返回住處",
+    "查看 Case-000",
+    "繼續詢問送行人",
+    "調查忘川咖啡廳",
+    "整理目前線索"
+  ],
+  "memoryRule": "本對話內，每個玩家行動或對話都先讀取 GitHub 狀態，執行後寫回 GitHub，並再讀取驗證。"
 }
