@@ -1,11 +1,11 @@
 {
   "saveId": "main",
   "stage": "04",
-  "round": 9,
+  "round": 10,
   "realityDay": 2,
   "currentRunId": "RUN-001",
   "currentRealityId": "REALITY-001",
   "lastCompletedRunId": "RUN-001",
-  "updatedAt": "2026-07-08T11:35:00+08:00",
-  "notes": "第 2 天上午，黑風改用雨晴進行間接搜尋，取得攝影社、二年三班、和平路舊公寓與舊信箱片段線索。"
+  "updatedAt": "2026-07-08T12:05:00+08:00",
+  "notes": "第 2 天中午，黑風搜尋 qhhs_photo_club_2007.jpg，確認照片與攝影社相簿曾存在，取得 backup_small、Y.C.、阿哲與 album_17 線索。"
 }
