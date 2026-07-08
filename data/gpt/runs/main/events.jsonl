@@ -7,3 +7,4 @@
 {"seq":7,"stage":"04","type":"system","summary":"玩家要求暫停劇情時間，先將目前紀錄寫入 GitHub。"}
 {"seq":8,"stage":"04","type":"reality_action","summary":"黑風完成青河中央圖書館會面，取得 Case-000 筆記本與送行人名片。"}
 {"seq":9,"stage":"04","type":"system","summary":"玩家要求之後每次行動都依 GitHub 狀態讀取、執行、寫回、驗證。"}
+{"seq":10,"stage":"04","type":"reality_action","summary":"黑風決定今晚先吃飯休息，隔天再調查青河事件。"}
