@@ -1,7 +1,7 @@
 {
   "realityId": "REALITY-001",
   "day": 2,
-  "currentTime": "第 2 天 上午 09:00",
+  "currentTime": "第 2 天 上午 09:20",
   "phase": "現實期",
   "currentLocation": "黑風住處",
   "playerAccount": {
@@ -10,7 +10,7 @@
     "unreadMessages": 0
   },
   "locations": {
-    "home": "黑風住處，目前休息後準備調查。",
+    "home": "黑風住處，目前正在調查青河事件。",
     "wangchuanCafe": "原訂會面地點，可能存在未知風險。",
     "qingheCentralLibrary": "已完成與送行人的公開會面。"
   },
@@ -32,10 +32,11 @@
     }
   ],
   "investigation": {
-    "qingheNews": "新聞紀錄中人數前後不一致。",
-    "chenGuorong": "一般搜尋查無資料。",
+    "qingheNews": "公開資料只剩簡化後的結案版本。",
+    "chenGuorong": "一般搜尋查無資料，但搜尋建議曾短暫浮現其姓名。",
     "libraryMeeting": "送行人、觀測者、記錄者三方線索已建立。",
-    "nextTarget": "第 2 天調查青河事件。"
+    "minanBus": "當年營運公司可能是民安客運。",
+    "passengerList": "V1 名單可能來自保險或內部附件。"
   },
   "timePaused": false,
   "pauseReason": null
