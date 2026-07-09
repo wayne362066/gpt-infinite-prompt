@@ -1,9 +1,9 @@
 {
   "realityId": "REALITY-001",
-  "round": 30,
-  "currentTime": "第 2 天 下午 18:52",
+  "round": 31,
+  "currentTime": "第 2 天 晚上 19:16",
   "currentLocation": "黑風住處",
-  "currentAction": "比對 S-17 / S-21 與 B-1706 車輛特徵",
+  "currentAction": "查詢 B-1706 附件索引與 roll04 對照片",
   "status": "active",
   "factsDiscovered": [
     "黑風已完成青河中央圖書館會面，取得 Case-000 筆記本與送行人名片。",
@@ -34,18 +34,23 @@
     "S-21 裁切低解析版可見民安字樣、疑似南區支線路線貼紙與深色車輛尾端。",
     "黑風搜尋和平路 17 巷與青河南區舊公寓線索，取得老公寓、三樓、事故司機家屬、信件代收公告與民安南區支線等殘片。",
     "黑風搜尋民安南區支線與南區候車亭線索，取得 2007 冬季路線表、2007-11-02 臨時調整公告、候車亭背街、改道留言與 B-17 車號殘留。",
-    "黑風搜尋 B-17 民安客運南區支線與車號 B-17 民安。",
+    "黑風搜尋 B-17 民安客運南區支線與車號 B-17 民安，將車號補強為 B-1706。",
     "民安客運車輛維修紀錄殘片顯示 B-1706｜南區支線｜2007-10 檢修：右後尾燈、側門膠條、煞車異音。",
     "B-1706 維修紀錄備註顯示暫調支援和平路臨時站。",
     "民安客運投訴紀錄摘要補完為 2007-11-03、車號 B-1706、路線南區支線、停靠和平路臨時站後延誤，處理併入青河事故相關資料。",
     "搜尋結果短暫出現附件索引 claim_appendix_v1_scan_B1706.jpg。",
     "地方論壇殘片提到 B-1706 不是事故車本身，但那晚出現在和平路，有人說照片裡拍到尾燈跟車側編號。",
     "舊照片索引殘片顯示 south_trip_roll04_contact_ref｜B1706 tail，摘要為 roll04 / frame 17-21 / bus tail / heping temporary stop。",
-    "黑風比對 S-17 / S-21 與 B-1706 車輛特徵。",
-    "S-17 可見深色車身、側門附近輪廓與不自然深色縫線，與 B-1706 的側門膠條維修紀錄位置相符但不足以確認。",
-    "S-21 可見深色車尾、右後方遮蔽區、紅色反光尾燈殘留、疑似車側編號殘片，與 B-1706 的右後尾燈維修紀錄及 B1706 tail 索引高度相符。",
-    "比對結論：S-21 與 B-1706 關聯高，S-17 與 B-1706 關聯中高，S-18 與 B-1706 同場景關聯中高。",
-    "比對期間社群 DM 沒有新未讀訊息，小孟尚未回覆。"
+    "黑風比對 S-17 / S-21 與 B-1706 車輛特徵，判斷 S-21 關聯高、S-17 關聯中高。",
+    "黑風查詢 claim_appendix_v1_scan_B1706.jpg 與 south_trip_roll04_contact_ref B1706 tail。",
+    "claim_appendix_v1_scan_B1706.jpg 摘要殘留 appendix v1 / vehicle ref / B-1706 / south line / not primary impact vehicle。",
+    "附件縮圖快取可見 vehicle_ref 表格欄位，B-1706 同列旁邊有 support / route deviation 字樣。",
+    "附件縮圖快取下方有 not listed in public summary 的截斷註記。",
+    "south_trip_roll04_contact_ref｜B1706 tail 摘要顯示 roll04 / frame 17-21 / bus tail / heping temporary stop / yc_private scan。",
+    "roll04 對照快取補充：frame 17 為 alley approach、frame 18 為 doorway / girl with camera、frame 20 為 empty stop、frame 21 為 bus tail / minan mark。",
+    "roll04_contact_ref_notes.txt 摘要殘留 17-21 sequence flagged after accident review，Uploader note: do not publish; contains bus identifier。",
+    "地方論壇備份頁殘留 B1706 是支援車，不是撞橋那台；它沒有出現在公開名單，但附錄裡有，照片拍到的是尾端，不是正面。",
+    "查詢期間社群 DM 仍沒有新未讀訊息，小孟尚未回覆。"
   ],
   "itemsGained": ["Case-000 筆記本", "送行人的名片"],
   "digitalFilesDownloaded": [
@@ -55,55 +60,55 @@
   "locationFindings": [
     {"id": "heping17_forum", "label": "和平路 17 巷事故司機家屬留言", "importance": "高", "summary": "殘片提到那女孩以前就在三樓，搬走後信箱還放了一堆信。"},
     {"id": "heping17_mail_notice", "label": "2008 信件代收公告", "importance": "高", "summary": "殘片出現陳○晴、陳○榮、陳○蘭，可能對應雨晴、陳國榮與家屬。"},
-    {"id": "minan_route_2007", "label": "民安南區支線 2007 冬季路線", "importance": "高", "summary": "路線經南區候車亭、和平路舊街、青河大橋南引道。"},
-    {"id": "minan_temp_change", "label": "2007-11-02 南區支線臨時調整", "importance": "高", "summary": "南引道施工與夜間管制，部分班次改停和平路臨時站。"},
     {"id": "minan_complaint_b1706", "label": "南區支線投訴紀錄 B-1706", "importance": "極高", "summary": "2007-11-03，車號 B-1706，停靠和平路臨時站後延誤，處理併入青河事故相關資料。"},
-    {"id": "roll04_b1706_tail", "label": "south_trip_roll04_contact_ref B1706 tail", "importance": "極高", "summary": "roll04 / frame 17-21 / bus tail / heping temporary stop，直接對應 S-17 至 S-21。"}
+    {"id": "b1706_appendix", "label": "claim_appendix_v1_scan_B1706.jpg", "importance": "極高", "summary": "appendix v1 / vehicle ref / B-1706 / south line / not primary impact vehicle，疑似支援或路線偏離車輛參照。"},
+    {"id": "roll04_b1706_tail", "label": "south_trip_roll04_contact_ref B1706 tail", "importance": "極高", "summary": "roll04 / frame 17-21 / bus tail / heping temporary stop / yc_private scan，直接對應 S-17 至 S-21。"}
   ],
   "photoFindings": [
-    {"id": "S-17", "label": "alley_corner", "importance": "極高", "summary": "來源 yq_private / roll04；巷口、老舊公寓、深色車輛、和平路 17...；與 B-1706 關聯中高，但低解析遮蔽圖不足以確認完整車號。"},
-    {"id": "S-18", "label": "alley_corner_2", "importance": "高", "summary": "來源 yq_private / roll04；同地點偏移角度，17巷片段，疑似拿相機或相機背帶的女生；與 B-1706 同場景關聯中高。"},
-    {"id": "S-20", "label": "bus_stop_empty", "importance": "中高", "summary": "來源 yq_private / roll04；photographer: Y.C. ?；空的南區候車亭與夕光，可作雨晴風格樣本。"},
-    {"id": "S-21", "label": "bus_stop_backstreet", "importance": "極高", "summary": "來源 yq_private / roll04；可見民安字樣、南區支線、深色車輛尾端與右後尾燈殘留；與 B-1706 關聯高。"},
+    {"id": "S-17", "label": "alley_corner", "importance": "極高", "summary": "來源 yq_private / roll04；frame 17 = alley approach；可能拍到 B-1706 停在和平路臨時站或巷口附近。"},
+    {"id": "S-18", "label": "alley_corner_2", "importance": "高", "summary": "來源 yq_private / roll04；frame 18 = doorway / girl with camera；與 B-1706 同場景關聯中高。"},
+    {"id": "S-20", "label": "bus_stop_empty", "importance": "中高", "summary": "來源 yq_private / roll04；frame 20 = empty stop；photographer: Y.C. ?。"},
+    {"id": "S-21", "label": "bus_stop_backstreet", "importance": "極高", "summary": "來源 yq_private / roll04；frame 21 = bus tail / minan mark；與 B-1706 關聯極高。"},
     {"id": "S-31", "label": "road_after_rain", "importance": "中高", "summary": "來源 yq_private / roll07；photographer: Y.C. ?；雨後路面反光，可作雨晴風格樣本。"}
   ],
   "vehicleCompare": {
     "B-1706": {
-      "confidenceWithS21": "高",
-      "confidenceWithS17": "中高",
+      "role": "支援車或路線偏離車；不是主撞擊車輛",
+      "confidenceWithS21": "極高",
+      "confidenceWithS17": "高",
       "confidenceWithS18Scene": "中高",
       "supportingClues": [
-        "2007-11-03 南區支線投訴紀錄補完為 B-1706。",
-        "B-1706 維修紀錄包含右後尾燈與側門膠條。",
-        "S-21 可見深色車尾、右後紅色反光與疑似車側編號殘片。",
-        "south_trip_roll04_contact_ref 摘要顯示 roll04 / frame 17-21 / bus tail / heping temporary stop。",
-        "S-17 至 S-21 同屬 yq_private / roll04。"
+        "claim_appendix_v1_scan_B1706.jpg 標示 not primary impact vehicle。",
+        "附件縮圖快取顯示 support / route deviation 與 not listed in public summary。",
+        "south_trip_roll04_contact_ref 摘要顯示 roll04 / frame 17-21 / bus tail / heping temporary stop / yc_private scan。",
+        "frame 21 被描述為 bus tail / minan mark。",
+        "roll04_contact_ref_notes 顯示 17-21 sequence flagged after accident review，contains bus identifier。"
       ],
-      "limits": "所有關鍵車牌與車側編號均被遮蔽或裁切，無法百分百確認。"
+      "limits": "仍未取得未遮蔽原圖與完整附件，只能以快取摘要、裁切圖與殘片交叉判斷。"
     }
   },
   "contactLeads": {
     "yuching": ["rain_clear_2007（疑似停用）", "yq_private / roll04", "yq_private / roll07", "小孟曾收過雨晴一封信", "和平路 17 巷三樓"],
     "xiaomeng": ["張哲安已代為轉正式訊息", "可能更記得誰拍了哪張", "等待回覆"],
-    "minan": ["南區支線", "南區候車亭", "和平路臨時站", "車號 B-1706", "claim_appendix_v1_scan_B1706.jpg", "south_trip_roll04_contact_ref B1706 tail"]
+    "minan": ["南區支線", "南區候車亭", "和平路臨時站", "車號 B-1706", "claim_appendix_v1_scan_B1706.jpg", "support / route deviation", "not primary impact vehicle", "not listed in public summary"]
   },
   "activeConversation": {
     "target": "張哲安 / Zhe An Chang / 小孟轉訊息",
     "channel": "社群 DM",
-    "status": "等待小孟是否回覆；B-1706 照片比對完成一輪",
-    "lastMessageAt": "第 2 天 下午 18:52",
-    "lastMessageSummary": "黑風比對 S-17 / S-21 與 B-1706 車輛特徵，判斷 S-21 關聯高、S-17 關聯中高，但遮蔽低解析圖不足以百分百確認。",
+    "status": "等待小孟是否回覆；B-1706 附件索引查詢完成一輪",
+    "lastMessageAt": "第 2 天 晚上 19:16",
+    "lastMessageSummary": "黑風查詢 B-1706 附件與 roll04 對照，確認 B-1706 疑似支援或路線偏離車，不是主撞擊車輛，且不在公開摘要。",
     "riskLevel": "高",
-    "note": "B-1706 可能是事故主線背後的第二台車；下一步適合查附件索引或等待小孟。"
+    "note": "B-1706 已從照片線索升級為附錄內車輛參照；下一步可查 support / route deviation 或第二台車線索。"
   },
-  "nextPlan": "可搜尋 claim_appendix_v1_scan_B1706.jpg、south_trip_roll04_contact_ref B1706 tail、B-1706 投訴紀錄，或等待小孟回覆。",
+  "nextPlan": "可搜尋 support route deviation B-1706、not primary impact vehicle B-1706、roll04_contact_ref_notes.txt，或等待小孟回覆。",
   "availableActions": [
-    "搜尋 claim_appendix_v1_scan_B1706.jpg",
-    "搜尋 south_trip_roll04_contact_ref B1706 tail",
-    "搜尋 B-1706 民安客運 投訴紀錄 2007-11-03",
-    "搜尋 和平路臨時站 B-1706",
+    "搜尋 support route deviation B-1706",
+    "搜尋 not primary impact vehicle B-1706",
+    "搜尋 not listed in public summary B-1706",
+    "搜尋 roll04_contact_ref_notes.txt",
     "等待小孟是否回覆",
-    "搜尋青河大橋事故是否涉及第二台車或調度車"
+    "搜尋青河大橋事故是否涉及支援車、調度車或第二台車"
   ],
   "memoryRule": "本對話內，每個玩家行動或對話都先讀取 GitHub 狀態，執行後寫回 GitHub，並再讀取驗證。"
 }
