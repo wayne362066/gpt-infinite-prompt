@@ -1,7 +1,7 @@
 {
   "realityId": "REALITY-001",
   "day": 2,
-  "currentTime": "第 2 天 晚上 19:16",
+  "currentTime": "第 2 天 晚上 19:38",
   "phase": "現實期",
   "currentLocation": "黑風住處",
   "playerAccount": {"forumName": "黑風", "rank": "E級玩家", "unreadMessages": 0},
@@ -15,7 +15,7 @@
     {"name": "觀測者", "status": "僅論壇接觸", "note": "警告黑風不要完全相信送行人。"},
     {"name": "記錄者", "status": "已見面", "note": "黑色長風衣男子，交付 Case-000 筆記本。"},
     {"name": "張哲安 / Zhe An Chang", "status": "已提供 selected_masked_v2", "note": "v2 細部文件顯示 S-17、S-18、S-20、S-21 來源為 yq_private / roll04。"},
-    {"name": "孟佳怡 / 小孟", "status": "等待回覆", "note": "張哲安已代轉黑風的紀錄片素材徵集訊息；19:16 尚未回覆。"}
+    {"name": "孟佳怡 / 小孟", "status": "等待回覆", "note": "張哲安已代轉黑風的紀錄片素材徵集訊息；19:38 尚未回覆。"}
   ],
   "investigation": {
     "qingheNews": "公開資料只剩簡化後的結案版本。",
@@ -38,7 +38,8 @@
     "minanSouthLine": "搜尋民安南區支線取得 2007 冬季路線表、2007-11-02 臨時調整公告、南區候車亭背街照片索引、地方論壇改道留言與 B-17 車號殘留。",
     "b1706": "搜尋 B-17 民安客運南區支線後，車號高度可能補完為 B-1706；取得 2007-11-03 投訴紀錄、claim_appendix_v1_scan_B1706.jpg、B1706 tail 與 roll04 frame 17-21 線索。",
     "b1706PhotoCompare": "黑風用 S-17 / S-21 裁切遮蔽圖與 B-1706 維修、投訴、照片索引殘片交叉比對；S-21 與 B-1706 關聯高，S-17 與 B-1706 關聯中高。",
-    "b1706Appendix": "查詢 claim_appendix_v1_scan_B1706.jpg 與 south_trip_roll04_contact_ref B1706 tail 後，確認 B-1706 被標為 not primary impact vehicle，疑似 support / route deviation，且 roll04 frame 17-21 被事故後標記為含 bus identifier。"
+    "b1706Appendix": "查詢 claim_appendix_v1_scan_B1706.jpg 與 south_trip_roll04_contact_ref B1706 tail 後，確認 B-1706 被標為 not primary impact vehicle，疑似 support / route deviation，且 roll04 frame 17-21 被事故後標記為含 bus identifier。",
+    "b1706SupportDeviation": "搜尋 support route deviation B-1706 後，確認 B-1706 於 2007-11-03 18:12 被指派支援和平路臨時站，調度原因為南引道管制與原班車延誤；資料標記 public_summary false，並出現 driver_ref: ZHOU-L。"
   },
   "timePaused": false,
   "pauseReason": null
