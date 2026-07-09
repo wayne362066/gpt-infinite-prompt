@@ -1,9 +1,9 @@
 {
   "realityId": "REALITY-001",
-  "round": 32,
-  "currentTime": "第 2 天 晚上 19:38",
+  "round": 33,
+  "currentTime": "第 2 天 晚上 20:04",
   "currentLocation": "黑風住處",
-  "currentAction": "搜尋 support route deviation B-1706",
+  "currentAction": "搜尋 ZHOU-L / 老周 / B-1706",
   "status": "active",
   "factsDiscovered": [
     "黑風已完成青河中央圖書館會面，取得 Case-000 筆記本與送行人名片。",
@@ -12,53 +12,34 @@
     "陳雨晴目前是陳國榮女兒最高可能候選；她可能與二年三班、攝影社、青河南區和平路舊公寓、rain_clear_2007@ 有關。",
     "qhhs_photo_club_2007.jpg 曾存在，圖片索引摘要殘留 scan by Y.C. / upload by A-Zhe。",
     "阿哲可能是張哲安，曾整理與上傳青河高中攝影社照片。",
-    "張哲安確認手上有部分青河高中底片，包含南區外拍與未公開底片。",
     "先前有人只問 2007 南區外拍巷口那張，並詢問原圖、車牌與備份。",
-    "黑風已下載 qhhs_2007_south_trip_contactsheet_masked.zip 並離線初步檢查，發現 S-17、S-18、S-21 等重點照片。",
     "張哲安表示小孟常拍人，雨晴常整理底片與掃描，雨晴拍攝習慣偏向路、站牌、門口、背影。",
-    "張哲安提到攝影社指導老師是林若梅，南區外拍不是正式校方活動。",
     "張哲安表示 S-20 / bus_stop_empty 與 S-31 / road_after_rain 應該是雨晴拍的。",
-    "雨晴曾說人不在畫面裡也可以留下人在那裡的感覺。",
-    "張哲安表示沒有雨晴現在能用的聯絡方式，rain_clear_2007 好像也停了。",
     "張哲安表示小孟以前好像收過雨晴一封信，且雨晴以前留過 yq 或 rain 資料夾。",
-    "張哲安拒絕提供 S-17、S-18、S-21 原圖，只能提供裁切過、低解析、遮蔽版本供場景確認。",
-    "張哲安特別提醒 S-17 不要問原圖。",
-    "張哲安已代為轉訊息給小孟，等待小孟是否回覆。",
     "selected_index_v2 顯示 S-17、S-18、S-20、S-21 來源為 yq_private / roll04。",
-    "selected_index_v2 顯示 S-31 來源為 yq_private / roll07。",
     "selected_index_v2 顯示 S-20 與 S-31 的 photographer 為 Y.C. ?。",
-    "selected_index_v2 顯示 S-17、S-18、S-21 的 photographer 被 redacted。",
     "contact_notes.txt 顯示 2007-11-03 南區外拍路線為老市場 → 和平路舊街 → 南區候車亭 → 青河大橋南引道。",
     "S-17 裁切低解析版仍可見狹窄巷口、老舊公寓、深色車輛、和平路 17... 字樣與被大面積遮蔽的車牌。",
     "S-18 裁切低解析版可見公寓入口、17巷片段與一名疑似拿相機或相機背帶的女生。",
     "S-21 裁切低解析版可見民安字樣、疑似南區支線路線貼紙與深色車輛尾端。",
-    "黑風搜尋和平路 17 巷與青河南區舊公寓線索，取得老公寓、三樓、事故司機家屬、信件代收公告與民安南區支線等殘片。",
-    "黑風搜尋民安南區支線與南區候車亭線索，取得 2007 冬季路線表、2007-11-02 臨時調整公告、候車亭背街、改道留言與 B-17 車號殘留。",
-    "黑風搜尋 B-17 民安客運南區支線與車號 B-17 民安，將車號補強為 B-1706。",
-    "民安客運車輛維修紀錄殘片顯示 B-1706｜南區支線｜2007-10 檢修：右後尾燈、側門膠條、煞車異音。",
-    "B-1706 維修紀錄備註顯示暫調支援和平路臨時站。",
-    "民安客運投訴紀錄摘要補完為 2007-11-03、車號 B-1706、路線南區支線、停靠和平路臨時站後延誤，處理併入青河事故相關資料。",
-    "搜尋結果短暫出現附件索引 claim_appendix_v1_scan_B1706.jpg。",
-    "地方論壇殘片提到 B-1706 不是事故車本身，但那晚出現在和平路，有人說照片裡拍到尾燈跟車側編號。",
-    "舊照片索引殘片顯示 south_trip_roll04_contact_ref｜B1706 tail，摘要為 roll04 / frame 17-21 / bus tail / heping temporary stop。",
-    "黑風比對 S-17 / S-21 與 B-1706 車輛特徵，判斷 S-21 關聯高、S-17 關聯中高。",
-    "黑風查詢 claim_appendix_v1_scan_B1706.jpg 與 south_trip_roll04_contact_ref B1706 tail。",
+    "和平路 17 巷搜尋取得老公寓、三樓、事故司機家屬、信件代收公告與民安南區支線等殘片。",
+    "B-1706 被補強為民安客運南區支線支援車，2007-11-03 停靠和平路臨時站後延誤，處理併入青河事故相關資料。",
     "claim_appendix_v1_scan_B1706.jpg 摘要殘留 appendix v1 / vehicle ref / B-1706 / south line / not primary impact vehicle。",
-    "附件縮圖快取可見 vehicle_ref 表格欄位，B-1706 同列旁邊有 support / route deviation 字樣。",
-    "附件縮圖快取下方有 not listed in public summary 的截斷註記。",
+    "B-1706 附件縮圖快取可見 support / route deviation 與 not listed in public summary。",
     "south_trip_roll04_contact_ref｜B1706 tail 摘要顯示 roll04 / frame 17-21 / bus tail / heping temporary stop / yc_private scan。",
-    "roll04 對照快取補充：frame 17 為 alley approach、frame 18 為 doorway / girl with camera、frame 20 為 empty stop、frame 21 為 bus tail / minan mark。",
-    "roll04_contact_ref_notes.txt 摘要殘留 17-21 sequence flagged after accident review，Uploader note: do not publish; contains bus identifier。",
-    "地方論壇備份頁殘留 B1706 是支援車，不是撞橋那台；它沒有出現在公開名單，但附錄裡有，照片拍到的是尾端，不是正面。",
-    "黑風搜尋 support route deviation B-1706。",
-    "Minan Dispatch Log Extract 顯示 2007-11-03 18:12，B-1706 assigned support / South Line / temporary stop: Heping Rd.。",
-    "B-1706 調度原因為 route deviation after south approach control，並標註 not for public timetable。",
-    "民安客運南區支線調度備忘殘片顯示 B-1706 支援和平路臨時站，原班車延誤、南引道管制，改由支援車先行接駁。",
-    "調度備忘殘片出現學生、三樓住戶、不要載入公開表等截斷詞。",
+    "B-1706 於 2007-11-03 18:12 被指派支援和平路臨時站，調度原因為南引道管制與原班車延誤。",
     "route_deviation_ref_v1.csv 摘要殘留 vehicle_id: B-1706、route: South Line、status: support、public_summary: false、reason_code: SA_CONTROL / HE_TEMP_STOP。",
-    "舊論壇殘片提到支援車不是事故車，那為什麼要藏？因為它去過和平路，因為有人從那邊上車，公開版只寫橋上那台，沒寫調度車。",
     "搜尋結果短暫出現 driver_ref: ZHOU-L，摘要為 support driver / South Line temporary assignment / 2007-11-03。",
-    "查詢期間社群 DM 仍沒有新未讀訊息，小孟尚未回覆。"
+    "黑風搜尋 ZHOU-L B-1706 與老周 B-1706 民安。",
+    "民安駕駛排班殘片顯示 vehicle_id: B-1706、route: South Line support、driver_ref: ZHOU-L、assignment: Heping temporary stop / 18:12。",
+    "民安駕駛排班殘片顯示 ZHOU-L 是 relief / not regular route driver。",
+    "民安客運駕駛員代碼對照 2007 殘留 ZHOU-L｜周○良｜南區支線支援｜資深駕駛。",
+    "地方論壇備份串殘留：老周開的不是撞橋那台，他那台是支援車，他說他只照調度去和平路臨時站。",
+    "地方論壇殘片出現老周辯解：不是我開過去的，是她自己上的車。",
+    "appendix_v1_driver_ref_extract.txt 摘要殘留 B-1706 / driver_ref: ZHOU-L / support vehicle / pickup note: Heping temp stop / passenger category: student / public summary: omitted。",
+    "舊討論串殘片出現：那個學生是不是司機女兒？別再問老周，他只是載人，真正該問的是誰改了站點。",
+    "舊討論串殘片出現：和平路那站本來不該有人知道。",
+    "搜尋期間社群 DM 出現短暫輸入中狀態，約三秒後消失；小孟仍未正式回覆。"
   ],
   "itemsGained": ["Case-000 筆記本", "送行人的名片"],
   "digitalFilesDownloaded": [
@@ -67,62 +48,58 @@
   ],
   "locationFindings": [
     {"id": "heping17_forum", "label": "和平路 17 巷事故司機家屬留言", "importance": "高", "summary": "殘片提到那女孩以前就在三樓，搬走後信箱還放了一堆信。"},
-    {"id": "heping17_mail_notice", "label": "2008 信件代收公告", "importance": "高", "summary": "殘片出現陳○晴、陳○榮、陳○蘭，可能對應雨晴、陳國榮與家屬。"},
-    {"id": "minan_complaint_b1706", "label": "南區支線投訴紀錄 B-1706", "importance": "極高", "summary": "2007-11-03，車號 B-1706，停靠和平路臨時站後延誤，處理併入青河事故相關資料。"},
-    {"id": "b1706_appendix", "label": "claim_appendix_v1_scan_B1706.jpg", "importance": "極高", "summary": "appendix v1 / vehicle ref / B-1706 / south line / not primary impact vehicle，疑似支援或路線偏離車輛參照。"},
-    {"id": "b1706_support_deviation", "label": "B-1706 support / route deviation", "importance": "極高", "summary": "2007-11-03 18:12，B-1706 支援和平路臨時站；public_summary: false；reason_code: SA_CONTROL / HE_TEMP_STOP。"}
+    {"id": "b1706_support_deviation", "label": "B-1706 support / route deviation", "importance": "極高", "summary": "2007-11-03 18:12，B-1706 支援和平路臨時站；public_summary: false；reason_code: SA_CONTROL / HE_TEMP_STOP。"},
+    {"id": "zhou_l_driver", "label": "ZHOU-L / 老周", "importance": "極高", "summary": "B-1706 支援駕駛，可能姓周、名含良；不是主撞擊車司機，曾載一名學生於和平路臨時站上車。"}
   ],
   "photoFindings": [
     {"id": "S-17", "label": "alley_corner", "importance": "極高", "summary": "來源 yq_private / roll04；frame 17 = alley approach；可能拍到 B-1706 停在和平路臨時站或巷口附近。"},
     {"id": "S-18", "label": "alley_corner_2", "importance": "高", "summary": "來源 yq_private / roll04；frame 18 = doorway / girl with camera；與 B-1706 同場景關聯中高。"},
-    {"id": "S-20", "label": "bus_stop_empty", "importance": "中高", "summary": "來源 yq_private / roll04；frame 20 = empty stop；photographer: Y.C. ?。"},
-    {"id": "S-21", "label": "bus_stop_backstreet", "importance": "極高", "summary": "來源 yq_private / roll04；frame 21 = bus tail / minan mark；與 B-1706 關聯極高。"},
-    {"id": "S-31", "label": "road_after_rain", "importance": "中高", "summary": "來源 yq_private / roll07；photographer: Y.C. ?；雨後路面反光，可作雨晴風格樣本。"}
+    {"id": "S-21", "label": "bus_stop_backstreet", "importance": "極高", "summary": "來源 yq_private / roll04；frame 21 = bus tail / minan mark；與 B-1706 關聯極高。"}
+  ],
+  "peopleFindings": [
+    {"id": "zhou_l", "label": "ZHOU-L / 老周", "importance": "極高", "summary": "B-1706 支援駕駛，疑似資深駕駛周○良；曾說自己只是照調度去和平路臨時站。"},
+    {"id": "unknown_student", "label": "和平路上車學生", "importance": "極高", "summary": "附錄 passenger category: student；論壇懷疑是否為司機女兒，但未確認姓名。"}
   ],
   "vehicleCompare": {
     "B-1706": {
       "role": "支援車或路線偏離車；不是主撞擊車輛",
       "dispatchTime": "2007-11-03 18:12",
       "dispatchLocation": "和平路臨時站",
-      "reasonCode": "SA_CONTROL / HE_TEMP_STOP",
+      "driverRef": "ZHOU-L / 老周",
+      "passengerCategory": "student",
       "publicSummary": false,
-      "driverRef": "ZHOU-L",
-      "confidenceWithS21": "極高",
-      "confidenceWithS17": "高",
-      "confidenceWithS18Scene": "中高",
       "supportingClues": [
-        "B-1706 assigned support / South Line / temporary stop: Heping Rd.。",
-        "route_deviation_ref_v1.csv 顯示 status: support、public_summary: false。",
-        "調度備忘殘片出現學生、三樓住戶、不要載入公開表。",
-        "舊論壇殘片稱有人從和平路上車，公開版只寫橋上那台，沒寫調度車。",
-        "driver_ref: ZHOU-L 可能與先前老周線索相關。"
+        "driver_ref: ZHOU-L。",
+        "ZHOU-L｜周○良｜南區支線支援｜資深駕駛。",
+        "pickup note: Heping temp stop / passenger category: student / public summary: omitted。",
+        "論壇殘片稱老周開的不是撞橋那台，只照調度去和平路臨時站。",
+        "論壇殘片稱真正該問的是誰改了站點。"
       ],
-      "limits": "仍未取得完整調度檔與未遮蔽照片。"
+      "limits": "仍未取得完整駕駛名冊、完整附錄與上車學生姓名。"
     }
   },
   "contactLeads": {
     "yuching": ["rain_clear_2007（疑似停用）", "yq_private / roll04", "yq_private / roll07", "小孟曾收過雨晴一封信", "和平路 17 巷三樓"],
-    "xiaomeng": ["張哲安已代為轉正式訊息", "可能更記得誰拍了哪張", "等待回覆"],
-    "minan": ["南區支線", "南區候車亭", "和平路臨時站", "車號 B-1706", "support / route deviation", "not primary impact vehicle", "public_summary false", "driver_ref ZHOU-L"],
-    "possiblePeople": ["ZHOU-L / 可能與老周相關"]
+    "xiaomeng": ["張哲安已代為轉正式訊息", "短暫輸入中後未回覆", "可能正在猶豫"],
+    "minan": ["B-1706", "ZHOU-L", "周○良", "passenger category: student", "誰改了站點", "和平路那站本來不該有人知道"]
   },
   "activeConversation": {
     "target": "張哲安 / Zhe An Chang / 小孟轉訊息",
     "channel": "社群 DM",
-    "status": "等待小孟是否回覆；B-1706 支援偏離線索完成一輪",
-    "lastMessageAt": "第 2 天 晚上 19:38",
-    "lastMessageSummary": "黑風搜尋 support route deviation B-1706，確認其為 18:12 支援和平路臨時站的非公開調度車，並取得 ZHOU-L 線索。",
+    "status": "小孟短暫輸入中後未回覆；ZHOU-L 搜尋完成一輪",
+    "lastMessageAt": "第 2 天 晚上 20:04",
+    "lastMessageSummary": "黑風搜尋 ZHOU-L 與老周，確認 ZHOU-L 高度可能是 B-1706 支援駕駛老周，且附錄出現和平路上車學生類別。",
     "riskLevel": "高",
-    "note": "ZHOU-L 可能對應老周；B-1706 被隱藏原因可能是從和平路載人，而非主撞擊。"
+    "note": "真正關鍵可能不是老周，而是誰改了站點，以及和平路上車學生是否為雨晴。"
   },
-  "nextPlan": "可搜尋 ZHOU-L B-1706、老周 B-1706 民安、route_deviation_ref_v1.csv、SA_CONTROL HE_TEMP_STOP，或等待小孟回覆。",
+  "nextPlan": "可搜尋誰改了站點、appendix_v1_driver_ref_extract.txt、B-1706 passenger category student、和平路那站本來不該有人知道，或等待小孟回覆。",
   "availableActions": [
-    "搜尋 ZHOU-L B-1706 或 老周 B-1706 民安",
-    "搜尋 route_deviation_ref_v1.csv",
-    "搜尋 SA_CONTROL HE_TEMP_STOP",
-    "搜尋 B-1706 18:12 和平路臨時站",
-    "搜尋青河事故是否涉及和平路上車者",
-    "等待小孟是否回覆"
+    "搜尋 誰改了站點 和平路 臨時站",
+    "搜尋 appendix_v1_driver_ref_extract.txt",
+    "搜尋 B-1706 passenger category student",
+    "搜尋 ZHOU-L 周○良 民安 或 老周 南區支線 支援車",
+    "等待小孟是否回覆",
+    "搜尋 和平路那站本來不該有人知道"
   ],
   "memoryRule": "本對話內，每個玩家行動或對話都先讀取 GitHub 狀態，執行後寫回 GitHub，並再讀取驗證。"
 }
