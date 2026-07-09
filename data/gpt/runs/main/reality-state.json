@@ -1,7 +1,7 @@
 {
   "realityId": "REALITY-001",
   "day": 2,
-  "currentTime": "第 2 天 晚上 20:29",
+  "currentTime": "第 2 天 晚上 20:57",
   "phase": "現實期",
   "currentLocation": "黑風住處",
   "playerAccount": {"forumName": "黑風", "rank": "E級玩家", "unreadMessages": 0},
@@ -15,8 +15,9 @@
     {"name": "觀測者", "status": "僅論壇接觸", "note": "警告黑風不要完全相信送行人。"},
     {"name": "記錄者", "status": "已見面", "note": "黑色長風衣男子，交付 Case-000 筆記本。"},
     {"name": "張哲安 / Zhe An Chang", "status": "已提供 selected_masked_v2", "note": "v2 細部文件顯示 S-17、S-18、S-20、S-21 來源為 yq_private / roll04。"},
-    {"name": "孟佳怡 / 小孟", "status": "可能已看見轉訊息但尚未回覆", "note": "搜尋期間社群 DM 再次短暫出現輸入中，約七秒後消失。"},
-    {"name": "ZHOU-L / 周立良 / 老周", "status": "待查", "note": "幾乎確認為 B-1706 支援駕駛；曾提到上車女生背著相機包，說要去找爸爸。"}
+    {"name": "孟佳怡 / 小孟", "status": "疑似已讀但尚未回覆", "note": "對話框狀態列短暫顯示已讀 20:53，但不能確定是小孟端或張哲安端。"},
+    {"name": "ZHOU-L / 周立良 / 老周", "status": "待查", "note": "幾乎確認為 B-1706 支援駕駛；曾提到上車女生背著相機包，說要去找爸爸。"},
+    {"name": "DISPATCH-M", "status": "待查", "note": "疑似建立和平路臨時站異動的調度操作者；結果中出現 MENG?，不可直接等同小孟。"}
   ],
   "investigation": {
     "qingheNews": "公開資料只剩簡化後的結案版本。",
@@ -25,15 +26,13 @@
     "minanBus": "當年營運公司可能是民安客運。",
     "passengerList": "V1 名單可能來自保險或內部附件。",
     "forumBackup": "備份串提到老周、司機家屬、第七個是開車的人、claim_appendix_v1_scan.jpg。",
-    "driverFamily": "司機家屬線索包含陳太太、小陳的媽媽、司機女兒、青河南區舊公寓與尋人貼快取。",
     "driverDaughter": "青河高中學生論壇殘影提到陳學姐、陳雨、轉學與 qhhs_photo_club_2007.jpg。",
     "driverDaughterCandidate": "轉學名單縮小後，陳雨晴為最高可能候選；低機率候選為陳雨萱與陳雨桐。",
-    "yuchingIndirectSearch": "使用雨晴搜尋取得攝影社、二年三班、和平路舊公寓與 rain_clear_2007@ 線索。",
     "selectedV2": "selected_index_v2 顯示 S-17、S-18、S-20、S-21 來源為 yq_private / roll04，S-31 來源為 yq_private / roll07；S-17 可見和平路 17...，S-21 可見民安與南區支線。",
     "heping17": "搜尋和平路17巷取得租屋頁、市政建物安全檢查、地方論壇、街景索引與 2008 信件代收公告殘片；線索指向青河南區和平路17巷舊公寓，近南區候車亭與民安南區支線。",
     "b1706SupportDeviation": "搜尋 support route deviation B-1706 後，確認 B-1706 於 2007-11-03 18:12 被指派支援和平路臨時站，調度原因為南引道管制與原班車延誤；資料標記 public_summary false，並出現 driver_ref: ZHOU-L。",
-    "zhouL": "搜尋 ZHOU-L B-1706 與老周 B-1706 民安後，確認 ZHOU-L 高度可能是老周，為 B-1706 支援駕駛；附錄殘片顯示 Heping temp stop / passenger category: student / public summary omitted。",
-    "zhouLDetail": "深查 ZHOU-L / 周○良 / 老周後，ZHOU-L 幾乎補完為周立良；其為資深支援駕駛，事故後被暫停排班 14 日但未列重大違規；採訪殘片顯示上車女生背著相機包，說要去找爸爸，且是從巷子裡跑出來。"
+    "zhouLDetail": "深查 ZHOU-L / 周○良 / 老周後，ZHOU-L 幾乎補完為周立良；其為資深支援駕駛，事故後被暫停排班 14 日但未列重大違規；採訪殘片顯示上車女生背著相機包，說要去找爸爸，且是從巷子裡跑出來。",
+    "hepingStopChange": "搜尋誰改了和平路臨時站後，取得 stop_change created 18:03、operator_ref: DISPATCH-M、source call: outside line / female caller、driver's daughter waiting near Heping alley 等線索。"
   },
   "timePaused": false,
   "pauseReason": null
