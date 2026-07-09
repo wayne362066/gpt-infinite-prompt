@@ -1,11 +1,11 @@
 {
   "saveId": "main",
   "stage": "04",
-  "round": 35,
+  "round": 36,
   "realityDay": 2,
   "currentRunId": "RUN-001",
   "currentRealityId": "REALITY-001",
   "lastCompletedRunId": "RUN-001",
-  "updatedAt": "2026-07-08T20:57:00+08:00",
-  "notes": "第 2 天晚上，黑風搜尋誰改了和平路臨時站；取得 stop_change created 18:03、operator_ref: DISPATCH-M、外線女性來電、司機女兒在和平路巷口等車等線索。"
+  "updatedAt": "2026-07-08T21:21:00+08:00",
+  "notes": "第 2 天晚上，黑風搜尋 DISPATCH-M MENG 民安；DISPATCH-M 高度可能對應民安夜班調度員孟美蘭 / meng_m，而非攝影社小孟，和平路臨時站建立源自未驗證外線女性來電。"
 }
