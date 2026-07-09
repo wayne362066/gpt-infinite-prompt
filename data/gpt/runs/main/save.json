@@ -1,11 +1,11 @@
 {
   "saveId": "main",
   "stage": "04",
-  "round": 32,
+  "round": 33,
   "realityDay": 2,
   "currentRunId": "RUN-001",
   "currentRealityId": "REALITY-001",
   "lastCompletedRunId": "RUN-001",
-  "updatedAt": "2026-07-08T19:38:00+08:00",
-  "notes": "第 2 天晚上，黑風搜尋 support route deviation B-1706；確認 B-1706 於 2007-11-03 18:12 被指派支援和平路臨時站，調度標記為 public_summary false，並取得 driver_ref: ZHOU-L 線索。"
+  "updatedAt": "2026-07-08T20:04:00+08:00",
+  "notes": "第 2 天晚上，黑風搜尋 ZHOU-L B-1706 與老周 B-1706 民安；確認 ZHOU-L 高度可能是老周，為 B-1706 支援駕駛，附錄殘片顯示和平路臨時站上車者類別為 student。"
 }
