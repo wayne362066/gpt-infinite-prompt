@@ -1,7 +1,7 @@
 {
   "realityId": "REALITY-001",
   "day": 2,
-  "currentTime": "第 2 天 晚上 19:38",
+  "currentTime": "第 2 天 晚上 20:04",
   "phase": "現實期",
   "currentLocation": "黑風住處",
   "playerAccount": {"forumName": "黑風", "rank": "E級玩家", "unreadMessages": 0},
@@ -15,7 +15,8 @@
     {"name": "觀測者", "status": "僅論壇接觸", "note": "警告黑風不要完全相信送行人。"},
     {"name": "記錄者", "status": "已見面", "note": "黑色長風衣男子，交付 Case-000 筆記本。"},
     {"name": "張哲安 / Zhe An Chang", "status": "已提供 selected_masked_v2", "note": "v2 細部文件顯示 S-17、S-18、S-20、S-21 來源為 yq_private / roll04。"},
-    {"name": "孟佳怡 / 小孟", "status": "等待回覆", "note": "張哲安已代轉黑風的紀錄片素材徵集訊息；19:38 尚未回覆。"}
+    {"name": "孟佳怡 / 小孟", "status": "可能已看見轉訊息但尚未回覆", "note": "搜尋期間社群 DM 短暫出現輸入中，約三秒後消失。"},
+    {"name": "ZHOU-L / 老周", "status": "待查", "note": "高度可能是 B-1706 支援駕駛，非主撞擊車司機。"}
   ],
   "investigation": {
     "qingheNews": "公開資料只剩簡化後的結案版本。",
@@ -28,18 +29,10 @@
     "driverDaughter": "青河高中學生論壇殘影提到陳學姐、陳雨、轉學與 qhhs_photo_club_2007.jpg。",
     "driverDaughterCandidate": "轉學名單縮小後，陳雨晴為最高可能候選；低機率候選為陳雨萱與陳雨桐。",
     "yuchingIndirectSearch": "使用雨晴搜尋取得攝影社、二年三班、和平路舊公寓與 rain_clear_2007@ 線索。",
-    "photoClubImage": "qhhs_photo_club_2007.jpg 曾存在，另有 backup_small、scan by Y.C.、A-Zhe、album_17 與南區外拍線索。",
-    "azhe": "阿哲可能是張哲安，帳號 azhe_qhhs，曾上傳照片；相簿留言提到雨晴不希望公開某張照片，且拍到她家樓下那台車。",
-    "zheAnDm": "黑風已用低風險訊息私訊張哲安並取得 selected_masked_v2；S-17 仍為高敏感，不可問原圖。",
-    "photoClubMemory": "張哲安表示小孟常拍人，雨晴常整理底片與掃描，雨晴拍攝習慣偏向路、站牌、門口、背影；南區外拍不是正式校方活動，有人家裡出事後老師要求少放照片。",
-    "yuchingContact": "張哲安沒有雨晴現用聯絡方式；rain_clear_2007 可能停用，小孟曾收過雨晴的信，雨晴可能留下過 yq 或 rain 資料夾。",
     "selectedV2": "selected_index_v2 顯示 S-17、S-18、S-20、S-21 來源為 yq_private / roll04，S-31 來源為 yq_private / roll07；S-17 可見和平路 17...，S-21 可見民安與南區支線。",
     "heping17": "搜尋和平路17巷取得租屋頁、市政建物安全檢查、地方論壇、街景索引與 2008 信件代收公告殘片；線索指向青河南區和平路17巷舊公寓，近南區候車亭與民安南區支線。",
-    "minanSouthLine": "搜尋民安南區支線取得 2007 冬季路線表、2007-11-02 臨時調整公告、南區候車亭背街照片索引、地方論壇改道留言與 B-17 車號殘留。",
-    "b1706": "搜尋 B-17 民安客運南區支線後，車號高度可能補完為 B-1706；取得 2007-11-03 投訴紀錄、claim_appendix_v1_scan_B1706.jpg、B1706 tail 與 roll04 frame 17-21 線索。",
-    "b1706PhotoCompare": "黑風用 S-17 / S-21 裁切遮蔽圖與 B-1706 維修、投訴、照片索引殘片交叉比對；S-21 與 B-1706 關聯高，S-17 與 B-1706 關聯中高。",
-    "b1706Appendix": "查詢 claim_appendix_v1_scan_B1706.jpg 與 south_trip_roll04_contact_ref B1706 tail 後，確認 B-1706 被標為 not primary impact vehicle，疑似 support / route deviation，且 roll04 frame 17-21 被事故後標記為含 bus identifier。",
-    "b1706SupportDeviation": "搜尋 support route deviation B-1706 後，確認 B-1706 於 2007-11-03 18:12 被指派支援和平路臨時站，調度原因為南引道管制與原班車延誤；資料標記 public_summary false，並出現 driver_ref: ZHOU-L。"
+    "b1706SupportDeviation": "搜尋 support route deviation B-1706 後，確認 B-1706 於 2007-11-03 18:12 被指派支援和平路臨時站，調度原因為南引道管制與原班車延誤；資料標記 public_summary false，並出現 driver_ref: ZHOU-L。",
+    "zhouL": "搜尋 ZHOU-L B-1706 與老周 B-1706 民安後，確認 ZHOU-L 高度可能是老周，為 B-1706 支援駕駛；附錄殘片顯示 Heping temp stop / passenger category: student / public summary omitted。"
   },
   "timePaused": false,
   "pauseReason": null
