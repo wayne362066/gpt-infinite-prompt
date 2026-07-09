@@ -1,9 +1,9 @@
 {
   "realityId": "REALITY-001",
-  "round": 34,
-  "currentTime": "第 2 天 晚上 20:29",
+  "round": 35,
+  "currentTime": "第 2 天 晚上 20:57",
   "currentLocation": "黑風住處",
-  "currentAction": "深查 ZHOU-L / 周○良 / 老周支援車線",
+  "currentAction": "搜尋誰改了和平路臨時站",
   "status": "active",
   "factsDiscovered": [
     "黑風已完成青河中央圖書館會面，取得 Case-000 筆記本與送行人名片。",
@@ -15,73 +15,77 @@
     "S-18 裁切低解析版可見公寓入口、17巷片段與一名疑似拿相機或相機背帶的女生。",
     "S-21 裁切低解析版可見民安字樣、疑似南區支線路線貼紙與深色車輛尾端。",
     "B-1706 被補強為民安客運南區支線支援車，2007-11-03 停靠和平路臨時站後延誤，處理併入青河事故相關資料。",
-    "claim_appendix_v1_scan_B1706.jpg 摘要殘留 appendix v1 / vehicle ref / B-1706 / south line / not primary impact vehicle。",
-    "B-1706 附件縮圖快取可見 support / route deviation 與 not listed in public summary。",
-    "south_trip_roll04_contact_ref｜B1706 tail 摘要顯示 roll04 / frame 17-21 / bus tail / heping temporary stop / yc_private scan。",
     "B-1706 於 2007-11-03 18:12 被指派支援和平路臨時站，調度原因為南引道管制與原班車延誤。",
     "route_deviation_ref_v1.csv 摘要殘留 vehicle_id: B-1706、route: South Line、status: support、public_summary: false、reason_code: SA_CONTROL / HE_TEMP_STOP。",
-    "民安駕駛排班殘片顯示 ZHOU-L 是 relief / not regular route driver。",
-    "民安客運駕駛員代碼對照 2007 殘留 ZHOU-L｜周○良｜南區支線支援｜資深駕駛。",
-    "地方論壇備份串殘留：老周開的不是撞橋那台，他那台是支援車，他說他只照調度去和平路臨時站。",
-    "appendix_v1_driver_ref_extract.txt 摘要殘留 B-1706 / driver_ref: ZHOU-L / support vehicle / pickup note: Heping temp stop / passenger category: student / public summary: omitted。",
-    "黑風深查 ZHOU-L 周○良 民安與老周南區支線支援車。",
-    "民安客運員工名冊 2007 駕駛部殘片顯示 ZHOU-L｜周立良｜資深駕駛｜南區支線支援 / 替班。",
-    "員工名冊殘片備註：周立良熟悉舊街、臨時站、夜間管制路段。",
-    "民安客運駕駛部獎懲紀錄殘片顯示周立良於 2007-11 事故後調查協助，暫停排班 14 日，未列重大違規。",
-    "獎懲紀錄殘片顯示周立良配合說明：依調度指示停靠和平路臨時站。",
-    "民安客運工會簡訊 2008-01 殘片提到周姓司機因配合調查暫停排班，非事故主責，請勿私下追問家屬與乘客資料。",
-    "地方論壇殘片提到老周沒有馬上離職，但他不跑南區了；他一直說自己只載到橋南，不知道後面怎麼會變成那樣。",
+    "周立良幾乎確認為 ZHOU-L / 老周，B-1706 支援駕駛，熟悉舊街、臨時站與夜間管制路段。",
     "local_interview_notes_zhou_l.txt 摘要殘留：周立良記得那個女生背著相機包，她說要去找爸爸，他沒有問她名字。",
-    "local_interview_notes_zhou_l.txt 訪談者註記：拒絕錄音，要求不要使用全名。",
     "zhou_l_followup_private.txt 摘要殘留：她不是在站牌等車，是從巷子裡跑出來；調度說和平路有人要上車，我才停。",
-    "搜尋期間社群 DM 再次短暫出現輸入中，這次約七秒後消失；小孟仍未正式回覆。"
+    "黑風搜尋誰改了站點與和平路臨時站。",
+    "Minan Stop Change Audit 殘留：2007-11-03 18:03 stop_change created，stop: Heping Rd. temporary stop，route: South Line support，operator_ref: DISPATCH-M。",
+    "Stop Change Audit 註記：passenger pickup / student / family request。",
+    "route_deviation_ref_v1 update log 顯示 B-1706 / HE_TEMP_STOP / update_by: DISPATCH-M。",
+    "route_deviation_ref_v1 update log 顯示 source call: outside line / female caller。",
+    "route_deviation_ref_v1 update log 殘留 caller said: driver's daughter waiting near Heping alley。",
+    "民安客運調度室備忘 2007-11-03 夜間殘留：接獲外線通知，和平路臨時站有人需上車。",
+    "調度員 M 註記：學生、司機家屬、往橋南。",
+    "該站點未列公開臨時公告，由調度室口頭通知支援車。",
+    "地方論壇殘片提到不是老周改的，調度室接到電話才派車，那個電話不是從陳家打的。",
+    "地方論壇殘片提到有人故意說她要去橋南找爸爸。",
+    "調度員代號殘片出現 DISPATCH-M｜MENG?｜Minan South Line temporary stop update。",
+    "DISPATCH-M 處理 outside call / Heping stop / B-1706 assignment；MENG? 不能直接等同小孟。",
+    "和平路那站本來不該有人知道的討論串殘留：臨時站只有民安調度和少數內部知道，如果那女孩知道要去那邊等車，一定有人先告訴她。",
+    "同討論串殘留：她不像是自己查到的。",
+    "搜尋期間社群 DM 無新訊息，但對話框狀態列短暫顯示已讀 20:53；不能確認是小孟端或張哲安端。"
   ],
   "itemsGained": ["Case-000 筆記本", "送行人的名片"],
   "peopleFindings": [
-    {"id": "zhou_liang", "label": "周立良 / ZHOU-L / 老周", "importance": "極高", "summary": "B-1706 支援駕駛，資深駕駛，熟悉舊街、臨時站與夜間管制路段；事故後暫停排班 14 日但未列重大違規。"},
-    {"id": "unknown_student_camera_bag", "label": "和平路上車女生", "importance": "極高", "summary": "背著相機包，從巷子裡跑出來，說要去找爸爸；高度疑似陳雨晴但未確認姓名。"}
+    {"id": "zhou_liang", "label": "周立良 / ZHOU-L / 老周", "importance": "極高", "summary": "B-1706 支援駕駛；採訪殘片顯示上車女生背相機包，說要去找爸爸。"},
+    {"id": "unknown_student_camera_bag", "label": "和平路上車女生", "importance": "極高", "summary": "背著相機包，從巷子裡跑出來，說要去找爸爸；高度疑似陳雨晴但未確認姓名。"},
+    {"id": "dispatch_m", "label": "DISPATCH-M / MENG?", "importance": "極高", "summary": "疑似建立和平路臨時站異動的調度操作者；接收外線女性來電並更新 B-1706 支援任務。不可直接等同小孟。"}
   ],
   "vehicleCompare": {
     "B-1706": {
       "role": "支援車或路線偏離車；不是主撞擊車輛",
       "dispatchTime": "2007-11-03 18:12",
+      "stopChangeTime": "2007-11-03 18:03",
       "dispatchLocation": "和平路臨時站",
       "driverRef": "ZHOU-L / 周立良 / 老周",
-      "passengerCategory": "student",
+      "operatorRef": "DISPATCH-M",
+      "passengerCategory": "student / driver's daughter / family request",
       "publicSummary": false,
       "supportingClues": [
-        "ZHOU-L 幾乎補完為周立良。",
-        "周立良為資深駕駛，熟悉舊街、臨時站、夜間管制路段。",
-        "周立良事故後被暫停排班 14 日，但未列重大違規。",
-        "周立良稱自己依調度指示停靠和平路臨時站。",
-        "採訪殘片顯示上車女生背著相機包，說要去找爸爸。",
-        "後續私稿殘片顯示女生不是在站牌等車，而是從巷子裡跑出來。"
+        "stop_change created 18:03，operator_ref: DISPATCH-M。",
+        "update_by: DISPATCH-M，source call: outside line / female caller。",
+        "caller said: driver's daughter waiting near Heping alley。",
+        "調度員 M 註記：學生、司機家屬、往橋南。",
+        "該站點未列公開臨時公告，由調度室口頭通知支援車。",
+        "地方論壇稱那個電話不是從陳家打的。"
       ],
-      "limits": "仍未取得完整調度檔、完整訪談全文與上車女生姓名。"
+      "limits": "DISPATCH-M 真實身份未確認；MENG? 可能是 OCR 或帳號殘影，不能直接指向小孟。"
     }
   },
   "contactLeads": {
-    "yuching": ["rain_clear_2007（疑似停用）", "yq_private / roll04", "yq_private / roll07", "小孟曾收過雨晴一封信", "和平路 17 巷三樓", "背相機包的和平路上車女生"],
-    "xiaomeng": ["張哲安已代為轉正式訊息", "兩次短暫輸入中後未回覆", "可能正在猶豫"],
-    "minan": ["B-1706", "ZHOU-L", "周立良", "passenger category: student", "誰改了站點", "調度說和平路有人要上車"]
+    "yuching": ["rain_clear_2007（疑似停用）", "yq_private / roll04", "和平路 17 巷三樓", "背相機包的和平路上車女生", "driver's daughter waiting near Heping alley"],
+    "xiaomeng": ["張哲安已代為轉正式訊息", "兩次短暫輸入中後未回覆", "20:53 疑似已讀", "MENG? 不可直接等同小孟"],
+    "minan": ["B-1706", "周立良", "DISPATCH-M", "outside line / female caller", "誰改了站點", "和平路那站本來不該有人知道"]
   },
   "activeConversation": {
     "target": "張哲安 / Zhe An Chang / 小孟轉訊息",
     "channel": "社群 DM",
-    "status": "小孟再次短暫輸入中後未回覆；周立良線索完成一輪",
-    "lastMessageAt": "第 2 天 晚上 20:29",
-    "lastMessageSummary": "黑風深查 ZHOU-L / 周立良，確認其為 B-1706 支援駕駛，且訪談殘片指出上車女生背相機包並說要去找爸爸。",
-    "riskLevel": "高",
-    "note": "上車女生高度疑似雨晴，但仍缺姓名確認；下一步核心是調度來源與小孟回覆。"
+    "status": "疑似已讀但仍無回覆；和平路臨時站異動搜尋完成一輪",
+    "lastMessageAt": "第 2 天 晚上 20:57",
+    "lastMessageSummary": "黑風搜尋誰改了和平路臨時站，取得 DISPATCH-M、外線女性來電、司機女兒在和平路巷口等車等線索。",
+    "riskLevel": "極高",
+    "note": "核心問題轉為外線女性來電與 DISPATCH-M 身份；MENG? 是高風險但不可直接推定為小孟。"
   },
-  "nextPlan": "可搜尋 local_interview_notes_zhou_l.txt、她說要去找爸爸 相機包、誰改了站點、調度說和平路有人要上車，或等待小孟回覆。",
+  "nextPlan": "可搜尋 DISPATCH-M MENG 民安、source call outside line female caller Heping stop、caller said driver's daughter waiting near Heping alley、和平路那站本來不該有人知道，或等待小孟回覆。",
   "availableActions": [
-    "搜尋 local_interview_notes_zhou_l.txt",
-    "搜尋 她說要去找爸爸 相機包",
-    "搜尋 誰改了站點 和平路 臨時站",
-    "搜尋 調度說和平路有人要上車",
+    "搜尋 DISPATCH-M MENG 民安",
+    "搜尋 source call outside line female caller Heping stop",
+    "搜尋 caller said driver's daughter waiting near Heping alley",
+    "搜尋 和平路那站本來不該有人知道",
     "等待小孟是否回覆",
-    "搜尋 周立良 事故後調查協助 暫停排班 14 日"
+    "搜尋 她要去橋南找爸爸 調度電話"
   ],
   "memoryRule": "本對話內，每個玩家行動或對話都先讀取 GitHub 狀態，執行後寫回 GitHub，並再讀取驗證。"
 }
