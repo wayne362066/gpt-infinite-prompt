@@ -1,11 +1,11 @@
 {
   "saveId": "main",
   "stage": "04",
-  "round": 31,
+  "round": 32,
   "realityDay": 2,
   "currentRunId": "RUN-001",
   "currentRealityId": "REALITY-001",
   "lastCompletedRunId": "RUN-001",
-  "updatedAt": "2026-07-08T19:16:00+08:00",
-  "notes": "第 2 天晚上，黑風查詢 claim_appendix_v1_scan_B1706.jpg 與 south_trip_roll04_contact_ref B1706 tail；確認 B-1706 不是主撞擊車輛，疑似支援或路線偏離車，且 roll04 frame 17-21 被事故後標記。"
+  "updatedAt": "2026-07-08T19:38:00+08:00",
+  "notes": "第 2 天晚上，黑風搜尋 support route deviation B-1706；確認 B-1706 於 2007-11-03 18:12 被指派支援和平路臨時站，調度標記為 public_summary false，並取得 driver_ref: ZHOU-L 線索。"
 }
