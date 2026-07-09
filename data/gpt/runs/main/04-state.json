@@ -1,105 +1,87 @@
 {
   "realityId": "REALITY-001",
-  "round": 33,
-  "currentTime": "第 2 天 晚上 20:04",
+  "round": 34,
+  "currentTime": "第 2 天 晚上 20:29",
   "currentLocation": "黑風住處",
-  "currentAction": "搜尋 ZHOU-L / 老周 / B-1706",
+  "currentAction": "深查 ZHOU-L / 周○良 / 老周支援車線",
   "status": "active",
   "factsDiscovered": [
     "黑風已完成青河中央圖書館會面，取得 Case-000 筆記本與送行人名片。",
     "青河事件公開資料只剩簡化後的結案版本，當年營運公司可能是民安客運。",
     "地方論壇備份串提到 V1 名單、老周、司機家屬、第七個是開車的人、claim_appendix_v1_scan.jpg。",
     "陳雨晴目前是陳國榮女兒最高可能候選；她可能與二年三班、攝影社、青河南區和平路舊公寓、rain_clear_2007@ 有關。",
-    "qhhs_photo_club_2007.jpg 曾存在，圖片索引摘要殘留 scan by Y.C. / upload by A-Zhe。",
-    "阿哲可能是張哲安，曾整理與上傳青河高中攝影社照片。",
-    "先前有人只問 2007 南區外拍巷口那張，並詢問原圖、車牌與備份。",
-    "張哲安表示小孟常拍人，雨晴常整理底片與掃描，雨晴拍攝習慣偏向路、站牌、門口、背影。",
-    "張哲安表示 S-20 / bus_stop_empty 與 S-31 / road_after_rain 應該是雨晴拍的。",
-    "張哲安表示小孟以前好像收過雨晴一封信，且雨晴以前留過 yq 或 rain 資料夾。",
     "selected_index_v2 顯示 S-17、S-18、S-20、S-21 來源為 yq_private / roll04。",
-    "selected_index_v2 顯示 S-20 與 S-31 的 photographer 為 Y.C. ?。",
-    "contact_notes.txt 顯示 2007-11-03 南區外拍路線為老市場 → 和平路舊街 → 南區候車亭 → 青河大橋南引道。",
     "S-17 裁切低解析版仍可見狹窄巷口、老舊公寓、深色車輛、和平路 17... 字樣與被大面積遮蔽的車牌。",
     "S-18 裁切低解析版可見公寓入口、17巷片段與一名疑似拿相機或相機背帶的女生。",
     "S-21 裁切低解析版可見民安字樣、疑似南區支線路線貼紙與深色車輛尾端。",
-    "和平路 17 巷搜尋取得老公寓、三樓、事故司機家屬、信件代收公告與民安南區支線等殘片。",
     "B-1706 被補強為民安客運南區支線支援車，2007-11-03 停靠和平路臨時站後延誤，處理併入青河事故相關資料。",
     "claim_appendix_v1_scan_B1706.jpg 摘要殘留 appendix v1 / vehicle ref / B-1706 / south line / not primary impact vehicle。",
     "B-1706 附件縮圖快取可見 support / route deviation 與 not listed in public summary。",
     "south_trip_roll04_contact_ref｜B1706 tail 摘要顯示 roll04 / frame 17-21 / bus tail / heping temporary stop / yc_private scan。",
     "B-1706 於 2007-11-03 18:12 被指派支援和平路臨時站，調度原因為南引道管制與原班車延誤。",
     "route_deviation_ref_v1.csv 摘要殘留 vehicle_id: B-1706、route: South Line、status: support、public_summary: false、reason_code: SA_CONTROL / HE_TEMP_STOP。",
-    "搜尋結果短暫出現 driver_ref: ZHOU-L，摘要為 support driver / South Line temporary assignment / 2007-11-03。",
-    "黑風搜尋 ZHOU-L B-1706 與老周 B-1706 民安。",
-    "民安駕駛排班殘片顯示 vehicle_id: B-1706、route: South Line support、driver_ref: ZHOU-L、assignment: Heping temporary stop / 18:12。",
     "民安駕駛排班殘片顯示 ZHOU-L 是 relief / not regular route driver。",
     "民安客運駕駛員代碼對照 2007 殘留 ZHOU-L｜周○良｜南區支線支援｜資深駕駛。",
     "地方論壇備份串殘留：老周開的不是撞橋那台，他那台是支援車，他說他只照調度去和平路臨時站。",
-    "地方論壇殘片出現老周辯解：不是我開過去的，是她自己上的車。",
     "appendix_v1_driver_ref_extract.txt 摘要殘留 B-1706 / driver_ref: ZHOU-L / support vehicle / pickup note: Heping temp stop / passenger category: student / public summary: omitted。",
-    "舊討論串殘片出現：那個學生是不是司機女兒？別再問老周，他只是載人，真正該問的是誰改了站點。",
-    "舊討論串殘片出現：和平路那站本來不該有人知道。",
-    "搜尋期間社群 DM 出現短暫輸入中狀態，約三秒後消失；小孟仍未正式回覆。"
+    "黑風深查 ZHOU-L 周○良 民安與老周南區支線支援車。",
+    "民安客運員工名冊 2007 駕駛部殘片顯示 ZHOU-L｜周立良｜資深駕駛｜南區支線支援 / 替班。",
+    "員工名冊殘片備註：周立良熟悉舊街、臨時站、夜間管制路段。",
+    "民安客運駕駛部獎懲紀錄殘片顯示周立良於 2007-11 事故後調查協助，暫停排班 14 日，未列重大違規。",
+    "獎懲紀錄殘片顯示周立良配合說明：依調度指示停靠和平路臨時站。",
+    "民安客運工會簡訊 2008-01 殘片提到周姓司機因配合調查暫停排班，非事故主責，請勿私下追問家屬與乘客資料。",
+    "地方論壇殘片提到老周沒有馬上離職，但他不跑南區了；他一直說自己只載到橋南，不知道後面怎麼會變成那樣。",
+    "local_interview_notes_zhou_l.txt 摘要殘留：周立良記得那個女生背著相機包，她說要去找爸爸，他沒有問她名字。",
+    "local_interview_notes_zhou_l.txt 訪談者註記：拒絕錄音，要求不要使用全名。",
+    "zhou_l_followup_private.txt 摘要殘留：她不是在站牌等車，是從巷子裡跑出來；調度說和平路有人要上車，我才停。",
+    "搜尋期間社群 DM 再次短暫出現輸入中，這次約七秒後消失；小孟仍未正式回覆。"
   ],
   "itemsGained": ["Case-000 筆記本", "送行人的名片"],
-  "digitalFilesDownloaded": [
-    {"filename": "qhhs_2007_south_trip_contactsheet_masked.zip", "source": "張哲安 / Zhe An Chang 社群 DM", "status": "已下載並離線初步檢查", "contents": ["contactsheet_2007_south_trip_masked.jpg", "index.txt", "readme.txt"]},
-    {"filename": "qhhs_2007_south_trip_selected_masked_v2.zip", "source": "張哲安 / Zhe An Chang 社群 DM", "status": "已下載並離線檢查", "contents": ["README_USAGE.txt", "selected_index_v2.txt", "contact_notes.txt", "selected_previews/"]}
-  ],
-  "locationFindings": [
-    {"id": "heping17_forum", "label": "和平路 17 巷事故司機家屬留言", "importance": "高", "summary": "殘片提到那女孩以前就在三樓，搬走後信箱還放了一堆信。"},
-    {"id": "b1706_support_deviation", "label": "B-1706 support / route deviation", "importance": "極高", "summary": "2007-11-03 18:12，B-1706 支援和平路臨時站；public_summary: false；reason_code: SA_CONTROL / HE_TEMP_STOP。"},
-    {"id": "zhou_l_driver", "label": "ZHOU-L / 老周", "importance": "極高", "summary": "B-1706 支援駕駛，可能姓周、名含良；不是主撞擊車司機，曾載一名學生於和平路臨時站上車。"}
-  ],
-  "photoFindings": [
-    {"id": "S-17", "label": "alley_corner", "importance": "極高", "summary": "來源 yq_private / roll04；frame 17 = alley approach；可能拍到 B-1706 停在和平路臨時站或巷口附近。"},
-    {"id": "S-18", "label": "alley_corner_2", "importance": "高", "summary": "來源 yq_private / roll04；frame 18 = doorway / girl with camera；與 B-1706 同場景關聯中高。"},
-    {"id": "S-21", "label": "bus_stop_backstreet", "importance": "極高", "summary": "來源 yq_private / roll04；frame 21 = bus tail / minan mark；與 B-1706 關聯極高。"}
-  ],
   "peopleFindings": [
-    {"id": "zhou_l", "label": "ZHOU-L / 老周", "importance": "極高", "summary": "B-1706 支援駕駛，疑似資深駕駛周○良；曾說自己只是照調度去和平路臨時站。"},
-    {"id": "unknown_student", "label": "和平路上車學生", "importance": "極高", "summary": "附錄 passenger category: student；論壇懷疑是否為司機女兒，但未確認姓名。"}
+    {"id": "zhou_liang", "label": "周立良 / ZHOU-L / 老周", "importance": "極高", "summary": "B-1706 支援駕駛，資深駕駛，熟悉舊街、臨時站與夜間管制路段；事故後暫停排班 14 日但未列重大違規。"},
+    {"id": "unknown_student_camera_bag", "label": "和平路上車女生", "importance": "極高", "summary": "背著相機包，從巷子裡跑出來，說要去找爸爸；高度疑似陳雨晴但未確認姓名。"}
   ],
   "vehicleCompare": {
     "B-1706": {
       "role": "支援車或路線偏離車；不是主撞擊車輛",
       "dispatchTime": "2007-11-03 18:12",
       "dispatchLocation": "和平路臨時站",
-      "driverRef": "ZHOU-L / 老周",
+      "driverRef": "ZHOU-L / 周立良 / 老周",
       "passengerCategory": "student",
       "publicSummary": false,
       "supportingClues": [
-        "driver_ref: ZHOU-L。",
-        "ZHOU-L｜周○良｜南區支線支援｜資深駕駛。",
-        "pickup note: Heping temp stop / passenger category: student / public summary: omitted。",
-        "論壇殘片稱老周開的不是撞橋那台，只照調度去和平路臨時站。",
-        "論壇殘片稱真正該問的是誰改了站點。"
+        "ZHOU-L 幾乎補完為周立良。",
+        "周立良為資深駕駛，熟悉舊街、臨時站、夜間管制路段。",
+        "周立良事故後被暫停排班 14 日，但未列重大違規。",
+        "周立良稱自己依調度指示停靠和平路臨時站。",
+        "採訪殘片顯示上車女生背著相機包，說要去找爸爸。",
+        "後續私稿殘片顯示女生不是在站牌等車，而是從巷子裡跑出來。"
       ],
-      "limits": "仍未取得完整駕駛名冊、完整附錄與上車學生姓名。"
+      "limits": "仍未取得完整調度檔、完整訪談全文與上車女生姓名。"
     }
   },
   "contactLeads": {
-    "yuching": ["rain_clear_2007（疑似停用）", "yq_private / roll04", "yq_private / roll07", "小孟曾收過雨晴一封信", "和平路 17 巷三樓"],
-    "xiaomeng": ["張哲安已代為轉正式訊息", "短暫輸入中後未回覆", "可能正在猶豫"],
-    "minan": ["B-1706", "ZHOU-L", "周○良", "passenger category: student", "誰改了站點", "和平路那站本來不該有人知道"]
+    "yuching": ["rain_clear_2007（疑似停用）", "yq_private / roll04", "yq_private / roll07", "小孟曾收過雨晴一封信", "和平路 17 巷三樓", "背相機包的和平路上車女生"],
+    "xiaomeng": ["張哲安已代為轉正式訊息", "兩次短暫輸入中後未回覆", "可能正在猶豫"],
+    "minan": ["B-1706", "ZHOU-L", "周立良", "passenger category: student", "誰改了站點", "調度說和平路有人要上車"]
   },
   "activeConversation": {
     "target": "張哲安 / Zhe An Chang / 小孟轉訊息",
     "channel": "社群 DM",
-    "status": "小孟短暫輸入中後未回覆；ZHOU-L 搜尋完成一輪",
-    "lastMessageAt": "第 2 天 晚上 20:04",
-    "lastMessageSummary": "黑風搜尋 ZHOU-L 與老周，確認 ZHOU-L 高度可能是 B-1706 支援駕駛老周，且附錄出現和平路上車學生類別。",
+    "status": "小孟再次短暫輸入中後未回覆；周立良線索完成一輪",
+    "lastMessageAt": "第 2 天 晚上 20:29",
+    "lastMessageSummary": "黑風深查 ZHOU-L / 周立良，確認其為 B-1706 支援駕駛，且訪談殘片指出上車女生背相機包並說要去找爸爸。",
     "riskLevel": "高",
-    "note": "真正關鍵可能不是老周，而是誰改了站點，以及和平路上車學生是否為雨晴。"
+    "note": "上車女生高度疑似雨晴，但仍缺姓名確認；下一步核心是調度來源與小孟回覆。"
   },
-  "nextPlan": "可搜尋誰改了站點、appendix_v1_driver_ref_extract.txt、B-1706 passenger category student、和平路那站本來不該有人知道，或等待小孟回覆。",
+  "nextPlan": "可搜尋 local_interview_notes_zhou_l.txt、她說要去找爸爸 相機包、誰改了站點、調度說和平路有人要上車，或等待小孟回覆。",
   "availableActions": [
+    "搜尋 local_interview_notes_zhou_l.txt",
+    "搜尋 她說要去找爸爸 相機包",
     "搜尋 誰改了站點 和平路 臨時站",
-    "搜尋 appendix_v1_driver_ref_extract.txt",
-    "搜尋 B-1706 passenger category student",
-    "搜尋 ZHOU-L 周○良 民安 或 老周 南區支線 支援車",
+    "搜尋 調度說和平路有人要上車",
     "等待小孟是否回覆",
-    "搜尋 和平路那站本來不該有人知道"
+    "搜尋 周立良 事故後調查協助 暫停排班 14 日"
   ],
   "memoryRule": "本對話內，每個玩家行動或對話都先讀取 GitHub 狀態，執行後寫回 GitHub，並再讀取驗證。"
 }
